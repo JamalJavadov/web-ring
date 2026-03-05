@@ -12,7 +12,6 @@ const navLinks = [
 
 const policyLinks = [
     { to: '/policies/shipping', label: 'Çatdırılma' },
-    { to: '/policies/returns', label: 'Qaytarma' },
     { to: '/policies/privacy', label: 'Məxfilik' },
     { to: '/policies/terms', label: 'Şərtlər' },
 ];

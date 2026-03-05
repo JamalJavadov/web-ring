@@ -17,9 +17,6 @@ const Faq = lazy(() => import('@/pages/Faq').then((module) => ({ default: module
 const PolicyShipping = lazy(() =>
     import('@/pages/PolicyShipping').then((module) => ({ default: module.PolicyShipping }))
 );
-const PolicyReturns = lazy(() =>
-    import('@/pages/PolicyReturns').then((module) => ({ default: module.PolicyReturns }))
-);
 const PolicyPrivacy = lazy(() =>
     import('@/pages/PolicyPrivacy').then((module) => ({ default: module.PolicyPrivacy }))
 );
@@ -53,7 +50,6 @@ function App() {
                                 <Route path="/contact" element={<Contact />} />
                                 <Route path="/faq" element={<Faq />} />
                                 <Route path="/policies/shipping" element={<PolicyShipping />} />
-                                <Route path="/policies/returns" element={<PolicyReturns />} />
                                 <Route path="/policies/privacy" element={<PolicyPrivacy />} />
                                 <Route path="/policies/terms" element={<PolicyTerms />} />
                             </Routes>

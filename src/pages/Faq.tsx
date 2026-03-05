@@ -26,7 +26,7 @@ const faqData: FaqCategory[] = [
             },
             {
                 question: 'Sifarişimi ləğv edə bilərəm?',
-                answer: 'Bəli, sifariş təsdiq olunmamışdan əvvəl ləğv edə bilərsiniz. Təsdiq olunmuş sifarişlər üçün qaytarma siyasətimizə baxın.',
+                answer: 'Bəli, sifariş təsdiq olunmamışdan əvvəl ləğv edə bilərsiniz. Bunun üçün dərhal WhatsApp xəttimizə yazın.',
             },
         ],
     },
@@ -119,7 +119,7 @@ function AccordionItem({ item }: { item: FaqItem }) {
 export function Faq() {
     usePageMeta({
         title: 'Suallar',
-        description: 'RingForBaku sifariş, ölçü, material və qaytarma suallarına cavablar.',
+        description: 'RingForBaku sifariş, ölçü, material və qulluq suallarına cavablar.',
     });
 
     return (

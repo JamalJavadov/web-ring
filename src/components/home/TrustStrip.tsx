@@ -9,8 +9,8 @@ const guarantees = [
         ),
     },
     {
-        title: 'Qaytarma',
-        description: '14 gün ərzində dəyişdirmə',
+        title: 'Paketləmə',
+        description: 'Sifarişlər qoruyucu qutuda hazırlanır',
         icon: (
             <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M9 15 3 9m0 0 6-6M3 9h12a6 6 0 0 1 0 12h-3" />

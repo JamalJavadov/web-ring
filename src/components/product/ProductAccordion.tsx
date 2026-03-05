@@ -21,8 +21,8 @@ function buildSections(product: Product): AccordionItem[] {
             content: product.materials.join(', '),
         },
         {
-            title: 'Çatdırılma & Qaytarma',
-            content: 'Bakı daxili 1-2 iş günü. Rayonlara 3-5 iş günü. Məhsulu 14 gün ərzində orijinal qablaşdırmada qaytara bilərsiniz.',
+            title: 'Çatdırılma',
+            content: 'Bakı daxili 1-2 iş günü. Rayonlara 3-5 iş günü. Göndəriş statusu WhatsApp üzərindən paylaşılır.',
         },
         {
             title: 'Qulluq',
