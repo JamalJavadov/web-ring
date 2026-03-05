@@ -54,11 +54,11 @@ export function PolicyReturns() {
                     <h2 className="font-serif text-lg tracking-widest uppercase text-white mb-4">
                         Qaytarma prosesi
                     </h2>
-                        <ol className="space-y-3 list-none counter-reset-none">
-                            <li className="flex items-start gap-3">
-                                <span className="text-accent2 font-serif text-sm mt-0.5 flex-shrink-0">01.</span>
-                            <span>WhatsApp və ya e-poçt vasitəsilə bizimlə əlaqə saxlayın</span>
-                            </li>
+                    <ol className="space-y-3 list-none counter-reset-none">
+                        <li className="flex items-start gap-3">
+                            <span className="text-accent2 font-serif text-sm mt-0.5 flex-shrink-0">01.</span>
+                            <span>WhatsApp vasitəsilə bizimlə əlaqə saxlayın</span>
+                        </li>
                         <li className="flex items-start gap-3">
                             <span className="text-accent2 font-serif text-sm mt-0.5 flex-shrink-0">02.</span>
                             <span>Sifariş nömrəsini və qaytarma səbəbini bildirin</span>

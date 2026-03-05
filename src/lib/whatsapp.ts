@@ -25,9 +25,3 @@ export function buildWhatsAppOrderUrl(lines: OrderLine[], totalAZN: number): str
     const text = encodeURIComponent(buildOrderText(lines, totalAZN));
     return `${WHATSAPP_ORDER_URL}?text=${text}`;
 }
-
-export function buildMailtoOrderUrl(lines: OrderLine[], totalAZN: number): string {
-    const subject = encodeURIComponent(`${BRAND_NAME} sifarişi`);
-    const body = encodeURIComponent(buildOrderText(lines, totalAZN));
-    return `mailto:?subject=${subject}&body=${body}`;
-}

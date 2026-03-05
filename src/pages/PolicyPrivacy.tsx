@@ -24,7 +24,7 @@ export function PolicyPrivacy() {
                         Toplanan məlumatlar
                     </h2>
                     <p>
-                        Sifariş zamanı adınız, əlaqə nömrəniz, e-poçt ünvanınız və çatdırılma
+                        Sifariş zamanı adınız, WhatsApp əlaqə nömrəniz və çatdırılma
                         ünvanınız toplanır. Bu məlumatlar yalnız sifarişinizi emal etmək və
                         çatdırılmanı təmin etmək üçün istifadə olunur.
                     </p>

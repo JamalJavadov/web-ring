@@ -18,7 +18,7 @@ const faqData: FaqCategory[] = [
         items: [
             {
                 question: 'Necə sifariş verə bilərəm?',
-                answer: 'Məhsulu seçin, səbətə əlavə edin və WhatsApp sifariş düyməsini istifadə edin. Komanda sizinlə telefon və çatdırılma ünvanını təsdiqləmək üçün yazacaq.',
+                answer: 'Məhsulu seçin, səbətə əlavə edin və WhatsApp sifariş düyməsini istifadə edin. Komanda çatdırılma üçün lazım olan məlumatları WhatsApp üzərindən təsdiqləyəcək.',
             },
             {
                 question: 'Ödəniş üsulları hansılardır?',

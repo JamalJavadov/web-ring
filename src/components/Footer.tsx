@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { BRAND_EMAIL, BRAND_NAME, WHATSAPP_ORDER_URL } from '@/lib/brand';
+import { BRAND_NAME, WHATSAPP_ORDER_URL } from '@/lib/brand';
 
 const navLinks = [
     { to: '/', label: 'Ana səhifə' },
@@ -62,12 +62,6 @@ export function Footer() {
                                 className="inline-flex items-center justify-center min-h-[44px] px-4 text-sm uppercase tracking-wider bg-[#25D366] text-white hover:opacity-90 transition-opacity"
                             >
                                 WhatsApp ilə sifariş
-                            </a>
-                            <a
-                                href={`mailto:${BRAND_EMAIL}`}
-                                className="inline-flex items-center justify-center min-h-[44px] px-4 text-sm uppercase tracking-wider border border-[var(--border)] text-[var(--text)] hover:border-[var(--accent)] transition-colors"
-                            >
-                                E-poçt ilə yazın
                             </a>
                         </div>
                         <ul className="mt-4 grid grid-cols-2 gap-y-2">
