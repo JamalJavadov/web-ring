@@ -14,19 +14,19 @@ const CATEGORIES = [
         priceAZN: 13,
         namePrefix: 'Gothic Üzük — ',
         fallbackName: 'Qara Metal',
-        descriptionShort: 'Premium gothic üslubda hazırlanmış üzük.',
+        descriptionShort: 'Premium qotik üslubda hazırlanmış üzük.',
         descriptionLong:
-            'RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.',
+            'RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.',
     },
     {
         key: 'sepler',
-        label: 'Sepələr',
+        label: 'seplər',
         priceAZN: 15,
         namePrefix: 'Gothic Sepə — ',
         fallbackName: 'Metal Zəncir',
-        descriptionShort: 'Premium gothic üslubda hazırlanmış sepə.',
+        descriptionShort: 'Premium qotik üslubda hazırlanmış sepə.',
         descriptionLong:
-            'RingForBaku kolleksiyasının bu gothic sepəsi qaranlıq estetikaya zərif metal toxunuş qatır. Dayanıqlı material və balanslı dizaynla gündəlik istifadə üçün idealdır.',
+            'RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.',
     },
 ];
 
@@ -352,7 +352,7 @@ export type Product = {
     name: string;
     priceAZN: number;
     oldPriceAZN?: number;
-    category: 'Üzüklər' | 'Sepələr';
+    category: 'Üzüklər' | 'seplər';
     tags: string[];
     materials: string[];
     descriptionShort: string;
@@ -506,8 +506,8 @@ function buildProductsForCategory(category, outputEntries, slugHints) {
             name: productName,
             priceAZN: category.priceAZN,
             category: category.label,
-            tags: ['gothic', ...keywordKeys],
-            materials: ['metal'],
+            tags: ['qotik', ...keywordKeys],
+            materials: ['Metal'],
             descriptionShort: category.descriptionShort,
             descriptionLong: category.descriptionLong,
             images: entries.map((entry) => `/${toPosix(path.relative(path.join(ROOT, 'public'), entry.absolutePath))}`),

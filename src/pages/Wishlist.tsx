@@ -9,7 +9,7 @@ import { usePageMeta } from '@/hooks/usePageMeta';
 export function Wishlist() {
     usePageMeta({
         title: 'Seçilmişlər',
-        description: 'RingForBaku seçilmiş məhsullar siyahısı və sürətli səbətə əlavə etmə.',
+        description: 'RingForBaku seçilmiş məhsullar siyahısı və məhsulları sürətlə səbətə əlavə etmə imkanı.',
     });
 
     const { items: wishlistItems, toggleWishlist } = useWishlist();
@@ -25,7 +25,7 @@ export function Wishlist() {
                         </svg>
                     }
                     title="Seçilmişlər boşdur"
-                    message="İstədiyiniz məhsulları seçilmişlərə əlavə edərək burada baxa bilərsiniz."
+                    message="Bəyəndiyiniz məhsulları seçilmişlərə əlavə edib burada görə bilərsiniz."
                     actionLabel="Mağazaya keç"
                     actionHref="/shop"
                 />

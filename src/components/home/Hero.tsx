@@ -14,11 +14,11 @@ export function Hero() {
                 </span>
 
                 <h1 className="font-serif text-4xl sm:text-5xl md:text-7xl tracking-widest uppercase leading-tight text-white mb-6">
-                    Qaranlığın Estetikası
+                    Qaranlığın estetikası
                 </h1>
 
                 <p className="text-[var(--muted)] text-base sm:text-lg max-w-md mb-10 leading-relaxed">
-                    Üslubunuzu qaranlığın zərifliyi ilə tamamlayın. Premium metal üzüklər və sepələr ilə fərqlənin.
+                    Üslubunuzu qaranlığın zərifliyi ilə tamamlayın. Premium metal üzüklər və seplərlə fərqlənin.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">

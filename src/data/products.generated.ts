@@ -12,7 +12,7 @@ export type Product = {
     name: string;
     priceAZN: number;
     oldPriceAZN?: number;
-    category: 'Üzüklər' | 'Sepələr';
+    category: 'Üzüklər' | 'seplər';
     tags: string[];
     materials: string[];
     descriptionShort: string;
@@ -32,13 +32,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/1.png"
         ],
@@ -53,13 +53,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/10.png"
         ],
@@ -74,13 +74,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/11.png"
         ],
@@ -95,13 +95,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/12.png"
         ],
@@ -116,13 +116,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/13.png"
         ],
@@ -137,13 +137,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/14.png"
         ],
@@ -158,13 +158,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/15.png"
         ],
@@ -179,13 +179,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/16.png"
         ],
@@ -200,13 +200,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/2.png"
         ],
@@ -221,13 +221,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/3.png"
         ],
@@ -242,13 +242,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/4.png"
         ],
@@ -263,13 +263,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/5.png"
         ],
@@ -284,13 +284,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/6.png"
         ],
@@ -305,13 +305,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/7.png"
         ],
@@ -326,13 +326,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/8.png"
         ],
@@ -347,13 +347,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "gothic"
+            "qotik"
         ],
         "materials": [
-            "metal"
+            "Metal"
         ],
-        "descriptionShort": "Premium gothic üslubda hazırlanmış üzük.",
-        "descriptionLong": "RingForBaku kolleksiyası üçün seçilən bu gothic üzük qara estetikanı metal parlaqlıqla birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
         "images": [
             "/products/uzukler/9.png"
         ],

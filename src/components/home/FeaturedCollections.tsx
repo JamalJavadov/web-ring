@@ -5,13 +5,13 @@ import { formatPriceAZN } from '@/lib/format';
 const collections = [
     {
         category: 'Üzüklər',
-        subtitle: 'Qara metal və gümüş tonlu detailing',
+        subtitle: 'Qara metal və gümüş tonlarında işlənmiş detallar',
         href: '/shop',
         basePrice: 13,
     },
     {
-        category: 'Sepələr',
-        subtitle: 'Gothic zəncir və simvolik asqı dizaynları',
+        category: 'seplər',
+        subtitle: 'Qotik zəncir və simvolik asqı dizaynları',
         href: '/shop',
         basePrice: 15,
     },
@@ -24,7 +24,7 @@ export function FeaturedCollections() {
                 Kolleksiyalar
             </h2>
             <p className="text-center text-sm text-[var(--muted)] mb-10">
-                RingForBaku-da bütün məhsullar əlçatan qiymət və premium görünüş balansı ilə təqdim olunur.
+                RingForBaku-da bütün məhsullar əlçatan qiymət və premium görünüş arasında balansla təqdim olunur.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
@@ -47,7 +47,7 @@ export function FeaturedCollections() {
                                 </div>
                                 <div className="mt-6 flex items-center justify-between">
                                     <span className="text-sm uppercase tracking-wider text-[var(--muted)]">
-                                        Başlanğıc: {formatPriceAZN(collection.basePrice)}
+                                        Başlanğıc qiyməti: {formatPriceAZN(collection.basePrice)}
                                     </span>
                                     <span className="text-sm uppercase tracking-wider text-white group-hover:text-[var(--accent)]">
                                         Mağazaya keç

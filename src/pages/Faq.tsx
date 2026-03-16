@@ -18,15 +18,15 @@ const faqData: FaqCategory[] = [
         items: [
             {
                 question: 'Necə sifariş verə bilərəm?',
-                answer: 'Məhsulu seçin, səbətə əlavə edin və WhatsApp sifariş düyməsini istifadə edin. Komanda çatdırılma üçün lazım olan məlumatları WhatsApp üzərindən təsdiqləyəcək.',
+                answer: 'Məhsulu seçin, səbətə əlavə edin və WhatsApp sifariş düyməsindən istifadə edin. Komandamız çatdırılma üçün lazım olan məlumatları WhatsApp vasitəsilə təsdiqləyəcək.',
             },
             {
                 question: 'Ödəniş üsulları hansılardır?',
-                answer: 'Nağd ödəniş (çatdırılma zamanı), bank kartı ilə köçürmə və onlayn ödəniş qəbul edirik.',
+                answer: 'Nağd ödəniş (çatdırılma zamanı), bank köçürməsi və onlayn ödəniş qəbul edirik.',
             },
             {
                 question: 'Sifarişimi ləğv edə bilərəm?',
-                answer: 'Bəli, sifariş təsdiq olunmamışdan əvvəl ləğv edə bilərsiniz. Bunun üçün dərhal WhatsApp xəttimizə yazın.',
+                answer: 'Bəli, sifariş təsdiqlənməzdən əvvəl onu ləğv edə bilərsiniz. Bunun üçün dərhal WhatsApp xəttimizə yazın.',
             },
         ],
     },
@@ -35,7 +35,7 @@ const faqData: FaqCategory[] = [
         items: [
             {
                 question: 'Üzük ölçümü necə müəyyən edim?',
-                answer: 'İp və ya kağız zolağını barmağınıza dolayın, işarələyin və xətkeşlə ölçün. Diametri millimetrlə bizə göndərin — biz sizə uyğun ölçünü təklif edəcəyik.',
+                answer: 'İpi və ya kağız zolağını barmağınıza dolayıb işarələyin, sonra xətkeşlə ölçün. Diametri millimetrlə bizə göndərin — sizə uyğun ölçünü təklif edəcəyik.',
             },
             {
                 question: 'Boyunbağı uzunluqları hansılardır?',
@@ -52,15 +52,15 @@ const faqData: FaqCategory[] = [
         items: [
             {
                 question: 'Hansı materiallardan istifadə edirsiniz?',
-                answer: 'Əsas materiallarımız 925 sterling gümüş, paslanmaz polad (316L), təbii daşlar (obsidian, onik, aqat) və premium dəridir.',
+                answer: 'Əsas materiallarımız 925 əyarlı gümüş, paslanmayan polad (316L), təbii daşlar (obsidian, oniks, əqiq) və premium dəridir.',
             },
             {
-                question: 'Məhsullar allergiya yaradırmı?',
-                answer: 'Paslanmaz polad və 925 gümüş hipoallergen materiallardır. Nikel həssaslığınız varsa, əlaqə saxlayın — sizə uyğun variant təklif edək.',
+                question: 'Məhsullar allergiyaya səbəb olurmu?',
+                answer: 'Paslanmayan polad və 925 gümüş hipoallergen materiallardır. Nikələ qarşı həssaslığınız varsa, bizimlə əlaqə saxlayın — sizə uyğun variant təklif edək.',
             },
             {
                 question: 'Rəng dəyişikliyi olurmu?',
-                answer: 'Gümüş zamanla oksidləşə bilər — bu təbii prosesdir. Parlatma dəsmalı ilə asanlıqla təmizlənir. Paslanmaz polad rəng dəyişməyə davamlıdır.',
+                answer: 'Gümüş zamanla oksidləşə bilər — bu, təbii prosesdir. Cilalama dəsmalı ilə asanlıqla təmizlənir. Paslanmayan polad rəng dəyişikliyinə davamlıdır.',
             },
         ],
     },
@@ -69,15 +69,15 @@ const faqData: FaqCategory[] = [
         items: [
             {
                 question: 'Aksessuarlarıma necə qulluq edim?',
-                answer: 'Parfüm, krem və kimyəvi maddələrlə təmasdan çəkinin. İstifadədən sonra yumşaq parça ilə silin və quru yerdə saxlayın.',
+                answer: 'Ətir, krem və kimyəvi maddələrlə təmasdan çəkinin. İstifadədən sonra yumşaq parça ilə silin və quru yerdə saxlayın.',
             },
             {
-                question: 'Su ilə təmas edə bilərmi?',
-                answer: 'Paslanmaz polad suya davamlıdır, lakin gümüş və dəri məhsulları sudan uzaq tutulmalıdır. Duş, hovuz və dənizdə çıxarın.',
+                question: 'Su ilə təmasda qala bilərmi?',
+                answer: 'Paslanmayan polad suya davamlıdır, lakin gümüş və dəri məhsulları sudan uzaq tutulmalıdır. Duş qəbul edərkən, hovuza və ya dənizə girərkən çıxarın.',
             },
             {
                 question: 'Saxlama tövsiyələri nədir?',
-                answer: 'Hər aksessuarı ayrıca yumuşaq torbada və ya qutumuzdakı örtüklü bölmədə saxlayın. Birbaşa günəş işığından uzaq tutun.',
+                answer: 'Hər aksessuarı ayrıca yumşaq torbada və ya qutumuzdakı astarlı bölmədə saxlayın. Birbaşa günəş işığından uzaq tutun.',
             },
         ],
     },
@@ -119,7 +119,7 @@ function AccordionItem({ item }: { item: FaqItem }) {
 export function Faq() {
     usePageMeta({
         title: 'Suallar',
-        description: 'RingForBaku sifariş, ölçü, material və qulluq suallarına cavablar.',
+        description: 'RingForBaku sifariş, ölçü, material və qulluqla bağlı suallara cavablar.',
     });
 
     return (
@@ -133,7 +133,7 @@ export function Faq() {
                 </h1>
                 <div className="w-16 h-px bg-accent2 mx-auto mb-6" />
                 <p className="text-muted max-w-lg mx-auto">
-                    Sifarişlər, ölçülər, materiallar və qulluq haqqında ən çox verilən sualların cavabları.
+                    Sifariş, ölçü, material və qulluqla bağlı ən çox verilən suallara cavablar.
                 </p>
             </header>
 

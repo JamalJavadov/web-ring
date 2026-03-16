@@ -13,7 +13,7 @@ export function PolicyShipping() {
                     Siyasətlər
                 </span>
                 <h1 className="font-serif text-4xl sm:text-5xl tracking-widest uppercase text-white mb-6">
-                    Çatdırılma Siyasəti
+                    Çatdırılma siyasəti
                 </h1>
                 <div className="w-16 h-px bg-accent2 mx-auto" />
             </header>
@@ -44,19 +44,19 @@ export function PolicyShipping() {
                         Çatdırılma haqqı
                     </h2>
                     <p>
-                        Bakı daxili çatdırılma pulsuz. Regionlara çatdırılma haqqı sifariş
-                        zamanı hesablanır. 100 AZN-dən yuxarı sifarişlərdə bütün Azərbaycan
-                        üzrə çatdırılma pulsuzdur.
+                        Bakı daxilində çatdırılma pulsuzdur. Regionlara çatdırılma haqqı sifariş
+                        zamanı hesablanır. 100 AZN-dən yuxarı sifarişlərdə Azərbaycanın hər
+                        yerinə çatdırılma pulsuzdur.
                     </p>
                 </section>
 
                 <section>
                     <h2 className="font-serif text-lg tracking-widest uppercase text-white mb-4">
-                        Sifariş izləmə
+                        Sifarişin izlənməsi
                     </h2>
                     <p>
                         Sifarişiniz göndərildikdən sonra izləmə nömrəsi WhatsApp
-                        vasitəsilə paylaşılacaq. Çatdırılma statusunu istənilən vaxt
+                        vasitəsilə paylaşılacaq. Çatdırılmanın statusunu istənilən vaxt
                         bizdən soruşa bilərsiniz.
                     </p>
                 </section>
@@ -67,7 +67,7 @@ export function PolicyShipping() {
                     </h2>
                     <p>
                         Bayram günləri və yüksək tələb dövrlərində çatdırılma müddəti uzana
-                        bilər. Gecikmələr barəsində əvvəlcədən məlumatlandırılacaqsınız.
+                        bilər. Gecikmələr barədə əvvəlcədən məlumatlandırılacaqsınız.
                     </p>
                 </section>
             </div>

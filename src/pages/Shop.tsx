@@ -36,7 +36,7 @@ function sortProducts(items: Product[], sortBy: SortOption): Product[] {
 export function Shop() {
     usePageMeta({
         title: 'Mağaza',
-        description: 'RingForBaku mağazasında premium gothic üzüklər və sepələr üçün filtrləmə və sürətli səbətə əlavə etmə imkanı.',
+        description: 'RingForBaku mağazasında premium qotik üzüklər və seplər üçün filtrləmə və məhsulları sürətlə səbətə əlavə etmə imkanı.',
     });
 
     const [search, setSearch] = useState('');
@@ -225,7 +225,7 @@ export function Shop() {
                     </div>
 
                     <div>
-                        <h3 className="text-sm font-medium uppercase tracking-wider text-white mb-3">Qiymət (maks)</h3>
+                        <h3 className="text-sm font-medium uppercase tracking-wider text-white mb-3">Maksimum qiymət</h3>
                         <div className="flex items-center gap-3">
                             <input
                                 type="range"
@@ -243,7 +243,7 @@ export function Shop() {
                     </div>
 
                     <Checkbox
-                        label="Yalnız stokda olanlar"
+                        label="Yalnız stokda olan məhsullar"
                         checked={onlyInStock}
                         onChange={() => setOnlyInStock(!onlyInStock)}
                     />

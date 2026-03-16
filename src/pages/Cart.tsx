@@ -10,7 +10,7 @@ import { usePageMeta } from '@/hooks/usePageMeta';
 export function Cart() {
     usePageMeta({
         title: 'Səbət',
-        description: 'RingForBaku səbəti: məhsul miqdarını dəyişin və WhatsApp ilə sifarişi tamamlayın.',
+        description: 'RingForBaku səbətində məhsul miqdarını dəyişin və sifarişinizi WhatsApp vasitəsilə tamamlayın.',
     });
 
     const { items, updateQuantity, removeFromCart, cartTotal, clearCart } = useCart();

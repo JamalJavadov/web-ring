@@ -17,12 +17,12 @@ function buildSections(product: Product): AccordionItem[] {
             content: product.descriptionLong,
         },
         {
-            title: 'Material',
+            title: 'Materiallar',
             content: product.materials.join(', '),
         },
         {
             title: 'Çatdırılma',
-            content: 'Bakı daxili 1-2 iş günü. Rayonlara 3-5 iş günü. Göndəriş statusu WhatsApp üzərindən paylaşılır.',
+            content: 'Bakı daxilində 1-2 iş günü. Rayonlara çatdırılma 3-5 iş günü çəkir. Göndərişin statusu WhatsApp vasitəsilə paylaşılır.',
         },
         {
             title: 'Qulluq',

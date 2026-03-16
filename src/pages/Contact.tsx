@@ -4,7 +4,7 @@ import { BRAND_NAME, WHATSAPP_ORDER_URL } from '@/lib/brand';
 export function Contact() {
     usePageMeta({
         title: 'Əlaqə',
-        description: `${BRAND_NAME} ilə WhatsApp üzərindən birbaşa əlaqə saxlayın və sifarişinizi rəsmiləşdirin.`,
+        description: `${BRAND_NAME} ilə WhatsApp vasitəsilə birbaşa əlaqə saxlayın və sifarişinizi rəsmiləşdirin.`,
     });
 
     return (
@@ -16,14 +16,14 @@ export function Contact() {
                 </h1>
                 <div className="w-16 h-px bg-accent2 mx-auto mb-6" />
                 <p className="text-[var(--muted)] max-w-2xl mx-auto">
-                    Sifariş, ölçü və çatdırılma sualları üçün yalnız WhatsApp xəttimiz aktivdir.
+                    Sifariş, ölçü və çatdırılma ilə bağlı suallar üçün yalnız WhatsApp xəttimiz aktivdir.
                 </p>
             </header>
 
             <section className="border border-[var(--border)] bg-[var(--surface)] p-6 md:p-8 animate-fade-in" style={{ animationDelay: '0.2s' }}>
                 <h2 className="font-serif text-xl tracking-widest uppercase text-white mb-4">WhatsApp dəstəyi</h2>
                 <p className="text-sm text-[var(--muted)] mb-6">
-                    Düyməyə keçid edərək birbaşa söhbət pəncərəsini açın. Komandamız sifariş və çatdırılma detallarını WhatsApp üzərindən təsdiqləyəcək.
+                    Düymədən istifadə edərək birbaşa söhbət pəncərəsini aça bilərsiniz. Komandamız sifariş və çatdırılma detallarını WhatsApp vasitəsilə təsdiqləyəcək.
                 </p>
                 <a
                     href={WHATSAPP_ORDER_URL}

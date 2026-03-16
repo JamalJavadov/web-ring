@@ -4,7 +4,7 @@ import { BRAND_NAME } from '@/lib/brand';
 export function About() {
     usePageMeta({
         title: 'Haqqımızda',
-        description: 'RingForBaku hekayəsi, qotik ilhamı və premium aksessuar sənətkarlığı haqqında məlumat.',
+        description: 'RingForBaku-nun hekayəsi, qotik ilhamı və premium aksessuar sənətkarlığı haqqında məlumat.',
     });
 
     return (
@@ -21,16 +21,16 @@ export function About() {
 
             <section className="mb-20 animate-fade-in" style={{ animationDelay: '0.2s' }}>
                 <h2 className="font-serif text-2xl sm:text-3xl tracking-widest uppercase text-white mb-8 text-center">
-                    Bizim Hekayəmiz
+                    Bizim hekayəmiz
                 </h2>
                 <div className="space-y-6 text-muted leading-relaxed text-base sm:text-lg">
                     <p>
-                        RingForBaku 2024-cü ildə Bakıda doğulub — qaranlığın estetikasını
-                        gündəlik üsluba gətirmək missiyası ilə. Biz inanırıq ki, hər aksessuar bir
+                        RingForBaku 2024-cü ildə Bakıda yaradılıb və qaranlığın estetikasını
+                        gündəlik üsluba gətirmək missiyasını daşıyır. Biz inanırıq ki, hər aksessuar bir
                         hekayə danışmalıdır: cəsarətli, sirli və unudulmaz.
                     </p>
                     <p>
-                        Brendimiz qotik arxitekturadan, gecə göyünün dərinliyindən və orta əsr
+                        Brendimiz qotik memarlıqdan, gecə səmasının dərinliyindən və orta əsr
                         sənətkarlığının incəliyindən ilham alır. Hər bir parça qaranlığın zərifliyini
                         əks etdirmək üçün dizayn edilib.
                     </p>
@@ -60,8 +60,8 @@ export function About() {
                     <div className="space-y-4 text-muted leading-relaxed">
                         <p>
                             Hər üzüyümüz, hər boyunbağımız əl ilə hazırlanır. Biz kütləvi istehsala
-                            deyil, fərdi sənətkarlığa üstünlük veririk. Paslanmaz polad, 925 gümüş
-                            və təbii daşlar — yalnız premium materiallar istifadə olunur.
+                            deyil, fərdi sənətkarlığa üstünlük veririk. Yalnız premium materiallardan
+                            istifadə edirik: paslanmayan polad, 925 gümüş və təbii daşlar.
                         </p>
                         <p>
                             Detallara diqqət bizim prinsipimizdir: hər oyma, hər cilalanma müştəriyə
@@ -87,17 +87,17 @@ export function About() {
                         </svg>
                     </div>
                     <h2 className="font-serif text-xl sm:text-2xl tracking-widest uppercase text-white mb-4">
-                        Qotik İlham
+                        Qotik ilham
                     </h2>
                     <div className="space-y-4 text-muted leading-relaxed">
                         <p>
-                            Qotik üslub sadəcə moda deyil — bu, fəlsəfədir. Orta əsr
+                            Qotik üslub sadəcə moda deyil — bu, bir fəlsəfədir. Orta əsr
                             katedralarının naxışları, viktorian dövrünün zərifliyi və müasir
                             minimalizmin birləşməsi bizim dizayn dilimizi formalaşdırır.
                         </p>
                         <p>
-                            Kəllə, xaç, ilan və qanad motivləri — hər simvol bir məna daşıyır.
-                            RingForBaku ilə siz sadəcə aksessuar taxmırsınız, bir dünyagörüşü
+                            Kəllə, xaç, ilan və qanad motivləri — hər bir simvol öz mənasını daşıyır.
+                            RingForBaku ilə siz sadəcə aksessuar taxmır, öz dünyagörüşünüzü
                             ifadə edirsiniz.
                         </p>
                     </div>
@@ -113,7 +113,7 @@ export function About() {
                 </h2>
                 <p className="text-muted leading-relaxed text-base sm:text-lg max-w-2xl mx-auto">
                     Hər kəsin öz qaranlıq tərəfini zərifliklə ifadə edə biləcəyi aksessuarlar
-                    yaratmaq. Biz keyfiyyət, orijinallıq və cəsarəti bir araya gətiririk — çünki
+                    yaratmaq. Biz keyfiyyəti, orijinallığı və cəsarəti bir araya gətiririk — çünki
                     üslub qaydaları pozanlar üçündür.
                 </p>
             </section>

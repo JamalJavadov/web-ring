@@ -31,7 +31,7 @@ export function Footer() {
                             {BRAND_NAME}
                         </Link>
                         <p className="text-sm text-[var(--muted)] mt-4 leading-relaxed max-w-sm">
-                            Premium gothic üslubunda üzüklər və sepələr. Mobil-first alış təcrübəsi və sürətli sifariş üçün WhatsApp xəttimiz aktivdir.
+                            Premium qotik üslubda üzüklər və seplər. Mobil yönümlü alış təcrübəsi və sürətli sifariş üçün WhatsApp xəttimiz aktivdir.
                         </p>
                     </div>
 
@@ -81,7 +81,7 @@ export function Footer() {
             <div className="border-t border-[var(--border)]">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
                     <p className="text-xs text-[var(--muted)]">&copy; {currentYear} {BRAND_NAME}</p>
-                    <p className="text-xs text-[var(--muted)]">Qaranlıq estetika, premium detal, RingForBaku imzası.</p>
+                    <p className="text-xs text-[var(--muted)]">Qaranlıq estetika, premium detallar, RingForBaku imzası.</p>
                 </div>
             </div>
         </footer>

@@ -4,7 +4,7 @@ import { BRAND_NAME } from '@/lib/brand';
 export function PolicyTerms() {
     usePageMeta({
         title: 'Şərtlər',
-        description: 'RingForBaku istifadə şərtləri, hüquq və məsuliyyət bölmələri.',
+        description: 'RingForBaku istifadə şərtləri, hüquqlar və məsuliyyət bölmələri.',
     });
 
     return (
@@ -14,7 +14,7 @@ export function PolicyTerms() {
                     Siyasətlər
                 </span>
                 <h1 className="font-serif text-4xl sm:text-5xl tracking-widest uppercase text-white mb-6">
-                    İstifadə Şərtləri
+                    İstifadə şərtləri
                 </h1>
                 <div className="w-16 h-px bg-accent2 mx-auto" />
             </header>
@@ -25,8 +25,9 @@ export function PolicyTerms() {
                         Ümumi şərtlər
                     </h2>
                     <p>
-                        Bu veb-saytdan istifadə etməklə aşağıdakı şərtləri qəbul edirsiniz.
-                        Şərtlərlə razı deyilsinizsə, xahiş edirik saytdan istifadə etməyin.
+                        Bu veb-saytdan istifadə etməklə aşağıdakı şərtləri qəbul etmiş
+                        olursunuz. Şərtlərlə razı deyilsinizsə, xahiş edirik, saytdan
+                        istifadə etməyin.
                     </p>
                 </section>
 
@@ -36,9 +37,9 @@ export function PolicyTerms() {
                     </h2>
                     <p>
                         Bütün qiymətlər AZN ilə göstərilir və dəyişdirilə bilər. Məhsul
-                        şəkilləri və təsvirləri mümkün qədər dəqiq olsa da, kiçik rəng və
-                        ölçü fərqləri ola bilər. Stok məhdud olduğundan, bəzi məhsullar
-                        qəflətən tükənə bilər.
+                        şəkilləri və təsvirləri mümkün qədər dəqiq təqdim olunsa da, kiçik
+                        rəng və ölçü fərqləri ola bilər. Stok məhdud olduğuna görə bəzi
+                        məhsullar qəfil tükənə bilər.
                     </p>
                 </section>
 
@@ -49,7 +50,7 @@ export function PolicyTerms() {
                     <p>
                         Bu saytdakı bütün məzmun — o cümlədən şəkillər, mətnlər, loqo və
                         dizaynlar — {BRAND_NAME}-a məxsusdur. İcazəsiz istifadə,
-                        kopyalama və ya yayımlanma qadağandır.
+                        köçürülmə və ya yayılması qadağandır.
                     </p>
                 </section>
 
@@ -60,7 +61,7 @@ export function PolicyTerms() {
                     <p>
                         {BRAND_NAME} saytın fasiləsiz və ya xətasız işləməsinə
                         zəmanət vermir. Texniki nasazlıqlardan və ya üçüncü tərəf
-                        xidmətlərindən yaranan zərərə görə məsuliyyət daşımırıq.
+                        xidmətlərindən yaranan zərərlərə görə məsuliyyət daşımırıq.
                     </p>
                 </section>
 
@@ -69,9 +70,9 @@ export function PolicyTerms() {
                         Dəyişikliklər
                     </h2>
                     <p>
-                        Bu şərtlər əvvəlcədən xəbərdarlıq etmədən dəyişdirilə bilər.
-                        Saytdan davam edən istifadəniz yenilənmiş şərtləri qəbul etdiyiniz
-                        anlamına gəlir.
+                        Bu şərtlər əvvəlcədən xəbərdarlıq edilmədən dəyişdirilə bilər.
+                        Saytdan istifadəni davam etdirməyiniz yenilənmiş şərtləri qəbul
+                        etdiyiniz anlamına gəlir.
                     </p>
                 </section>
             </div>

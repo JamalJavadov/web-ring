@@ -15,10 +15,10 @@ export function buildOrderText(lines: OrderLine[], totalAZN: number): string {
         })
         .join('\n');
 
-    return `Salam, ${BRAND_NAME}-dan sifariş etmək istəyirəm:
+    return `Salam, ${BRAND_NAME}-dan sifariş vermək istəyirəm:
 ${productLines}
 Cəm: ${formatPriceAZN(totalAZN)}
-Zəhmət olmasa əlaqə nömrəmi və çatdırılma ünvanımı təsdiqləmək üçün yazın.`;
+Zəhmət olmasa, əlaqə nömrəmi və çatdırılma ünvanımı təsdiqləmək üçün mənə yazın.`;
 }
 
 export function buildWhatsAppOrderUrl(lines: OrderLine[], totalAZN: number): string {

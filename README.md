@@ -16,7 +16,7 @@ Məhsullar yalnız şəkillərdən avtomatik yaradılır.
 ### 1) Şəkilləri daxil edin (`_incoming`)
 
 - Üzüklər (raw): `public/products/_incoming/uzukler/`
-- Sepələr (raw): `public/products/_incoming/sepler/`
+- seplər (raw): `public/products/_incoming/sepler/`
 - Dəstəklənən formatlar: `.webp .jpg .jpeg .png`
 
 ### 2) Generatoru işə salın
@@ -32,7 +32,7 @@ Generator bunları edir:
 - Eyni hash-li şəkilləri dedupe edir (təkrarı köçürmür/üzərinə yazmır).
 - Şəkilləri final qovluqlara deterministik adla daşıyır:
 - Üzüklər output: `public/products/uzukler/`
-- Sepələr output: `public/products/sepler/`
+- seplər output: `public/products/sepler/`
 - `src/data/products.generated.ts` faylını yeniləyir.
 - Dəyişiklik yoxdursa `No changes` çıxır və faylı yenidən yazmır.
 
@@ -43,7 +43,7 @@ Generator bunları edir:
 - Random adlar (`IMG_1234`, `photo(2)` və s.) hash əsaslı `p-<hash>` slug ilə ayrıca məhsula çevrilir.
 - Məhsul adları AZ dilində avtomatik qurulur:
 - Üzüklər: `Gothic Üzük — <Açar söz>`
-- Sepələr: `Gothic Sepə — <Açar söz>`
+- seplər: `Gothic Sepə — <Açar söz>`
 - Açar söz tapılmazsa fallback istifadə olunur:
 - `Gothic Üzük — Qara Metal`
 - `Gothic Sepə — Metal Zəncir`
@@ -51,7 +51,7 @@ Generator bunları edir:
 ### 4) Qiymət qaydası
 
 - Üzüklər: `13 ₼`
-- Sepələr: `15 ₼`
+- seplər: `15 ₼`
 
 ### Avtomatik script trigger-ləri
 
