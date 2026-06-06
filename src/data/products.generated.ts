@@ -1946,6 +1946,656 @@ export const products: Product[] = [
         "createdAt": "2026-03-05T14:24:00.000Z"
     },
     {
+        "id": "uzukler_ring97",
+        "slug": "ring97",
+        "name": "Gothic Üzük — Qara Metal #97",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring97-1.webp",
+            "/products/uzukler/ring97-2.webp",
+            "/products/uzukler/ring97-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:25:00.000Z"
+    },
+    {
+        "id": "uzukler_ring98",
+        "slug": "ring98",
+        "name": "Gothic Üzük — Qara Metal #98",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring98-1.webp",
+            "/products/uzukler/ring98-2.webp",
+            "/products/uzukler/ring98-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:26:00.000Z"
+    },
+    {
+        "id": "uzukler_ring100",
+        "slug": "ring100",
+        "name": "Gothic Üzük — Qara Metal #100",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring100-1.webp",
+            "/products/uzukler/ring100-2.webp",
+            "/products/uzukler/ring100-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:28:00.000Z"
+    },
+    {
+        "id": "uzukler_ring101",
+        "slug": "ring101",
+        "name": "Gothic Üzük — Qotik #101",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring101-1.webp",
+            "/products/uzukler/ring101-2.webp",
+            "/products/uzukler/ring101-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:29:00.000Z"
+    },
+    {
+        "id": "uzukler_ring102",
+        "slug": "ring102",
+        "name": "Gothic Üzük — Qara Metal #102",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring102-1.webp",
+            "/products/uzukler/ring102-2.webp",
+            "/products/uzukler/ring102-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:30:00.000Z"
+    },
+    {
+        "id": "uzukler_ring103",
+        "slug": "ring103",
+        "name": "Gothic Üzük — Qara Metal #103",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring103-1.webp",
+            "/products/uzukler/ring103-2.webp",
+            "/products/uzukler/ring103-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:32:00.000Z"
+    },
+    {
+        "id": "uzukler_ring104",
+        "slug": "ring104",
+        "name": "Gothic Üzük — Qara Metal #104",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring104-1.webp",
+            "/products/uzukler/ring104-2.webp",
+            "/products/uzukler/ring104-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:33:00.000Z"
+    },
+    {
+        "id": "uzukler_ring106",
+        "slug": "ring106",
+        "name": "Gothic Üzük — Qara Metal #106",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring106-1.webp",
+            "/products/uzukler/ring106-2.webp",
+            "/products/uzukler/ring106-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:35:00.000Z"
+    },
+    {
+        "id": "uzukler_ring109",
+        "slug": "ring109",
+        "name": "Gothic Üzük — Qara Metal #109",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring109-1.webp",
+            "/products/uzukler/ring109-2.webp",
+            "/products/uzukler/ring109-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:40:00.000Z"
+    },
+    {
+        "id": "uzukler_ring112",
+        "slug": "ring112",
+        "name": "Gothic Üzük — Xaç #112",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik",
+            "cross"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring112-1.webp",
+            "/products/uzukler/ring112-2.webp",
+            "/products/uzukler/ring112-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:44:00.000Z"
+    },
+    {
+        "id": "uzukler_ring114",
+        "slug": "ring114",
+        "name": "Gothic Üzük — İlan #114",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik",
+            "snake"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring114-1.webp",
+            "/products/uzukler/ring114-2.webp",
+            "/products/uzukler/ring114-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:48:00.000Z"
+    },
+    {
+        "id": "uzukler_ring115",
+        "slug": "ring115",
+        "name": "Gothic Üzük — Vikinq #115",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik",
+            "viking"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring115-1.webp",
+            "/products/uzukler/ring115-2.webp",
+            "/products/uzukler/ring115-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:49:00.000Z"
+    },
+    {
+        "id": "uzukler_ring116",
+        "slug": "ring116",
+        "name": "Gothic Üzük — Qara Metal #116",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring116-1.webp",
+            "/products/uzukler/ring116-2.webp",
+            "/products/uzukler/ring116-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:50:00.000Z"
+    },
+    {
+        "id": "uzukler_ring117",
+        "slug": "ring117",
+        "name": "Gothic Üzük — Xaç #117",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik",
+            "cross"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring117-1.webp",
+            "/products/uzukler/ring117-2.webp",
+            "/products/uzukler/ring117-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:51:00.000Z"
+    },
+    {
+        "id": "uzukler_ring119",
+        "slug": "ring119",
+        "name": "Gothic Üzük — Qara Metal #119",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring119-1.webp",
+            "/products/uzukler/ring119-2.webp",
+            "/products/uzukler/ring119-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:54:00.000Z"
+    },
+    {
+        "id": "uzukler_ring121",
+        "slug": "ring121",
+        "name": "Gothic Üzük — Qara Metal #121",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring121-1.webp",
+            "/products/uzukler/ring121-2.webp",
+            "/products/uzukler/ring121-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:57:00.000Z"
+    },
+    {
+        "id": "uzukler_ring122",
+        "slug": "ring122",
+        "name": "Gothic Üzük — Qara Metal #122",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring122-1.webp",
+            "/products/uzukler/ring122-2.webp",
+            "/products/uzukler/ring122-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:00:00.000Z"
+    },
+    {
+        "id": "uzukler_ring123",
+        "slug": "ring123",
+        "name": "Gothic Üzük — Qara Metal #123",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring123-1.webp",
+            "/products/uzukler/ring123-2.webp",
+            "/products/uzukler/ring123-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:01:00.000Z"
+    },
+    {
+        "id": "uzukler_ring125",
+        "slug": "ring125",
+        "name": "Gothic Üzük — Qara Metal #125",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring125-1.webp",
+            "/products/uzukler/ring125-2.webp",
+            "/products/uzukler/ring125-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:03:00.000Z"
+    },
+    {
+        "id": "uzukler_ring126",
+        "slug": "ring126",
+        "name": "Gothic Üzük — Qara Metal #126",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring126-1.webp",
+            "/products/uzukler/ring126-2.webp",
+            "/products/uzukler/ring126-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:04:00.000Z"
+    },
+    {
+        "id": "uzukler_ring128",
+        "slug": "ring128",
+        "name": "Gothic Üzük — Qara Metal #128",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring128-1.webp",
+            "/products/uzukler/ring128-2.webp",
+            "/products/uzukler/ring128-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:06:00.000Z"
+    },
+    {
+        "id": "uzukler_ring129",
+        "slug": "ring129",
+        "name": "Gothic Üzük — Qara Metal #129",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring129-1.webp",
+            "/products/uzukler/ring129-2.webp",
+            "/products/uzukler/ring129-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:07:00.000Z"
+    },
+    {
+        "id": "uzukler_ring130",
+        "slug": "ring130",
+        "name": "Gothic Üzük — Kəllə #130",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik",
+            "skull"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring130-1.webp",
+            "/products/uzukler/ring130-2.webp",
+            "/products/uzukler/ring130-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:08:00.000Z"
+    },
+    {
+        "id": "uzukler_ring131",
+        "slug": "ring131",
+        "name": "Gothic Üzük — Qara Metal #131",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring131-1.webp",
+            "/products/uzukler/ring131-2.webp",
+            "/products/uzukler/ring131-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:10:00.000Z"
+    },
+    {
+        "id": "uzukler_ring132",
+        "slug": "ring132",
+        "name": "Gothic Üzük — Qara Metal #132",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring132-1.webp",
+            "/products/uzukler/ring132-2.webp",
+            "/products/uzukler/ring132-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:11:00.000Z"
+    },
+    {
+        "id": "uzukler_ring133",
+        "slug": "ring133",
+        "name": "Gothic Üzük — Kəllə #133",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik",
+            "skull"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring133-1.webp",
+            "/products/uzukler/ring133-2.webp",
+            "/products/uzukler/ring133-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:14:00.000Z"
+    },
+    {
+        "id": "uzukler_ring134",
+        "slug": "ring134",
+        "name": "Gothic Üzük — Qara Metal #134",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring134-1.webp",
+            "/products/uzukler/ring134-2.webp",
+            "/products/uzukler/ring134-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:15:00.000Z"
+    },
+    {
+        "id": "uzukler_ring138",
+        "slug": "ring138",
+        "name": "Gothic Üzük — Qara Metal #138",
+        "priceAZN": 13,
+        "category": "Üzüklər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
+        "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
+        "images": [
+            "/products/uzukler/ring138-1.webp",
+            "/products/uzukler/ring138-2.webp",
+            "/products/uzukler/ring138-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:21:00.000Z"
+    },
+    {
         "id": "sepler_necklace1",
         "slug": "necklace1",
         "name": "Gothic Sepə — Metal Zəncir #01",
@@ -2817,5 +3467,310 @@ export const products: Product[] = [
         "featured": false,
         "inStock": true,
         "createdAt": "2026-03-05T14:21:00.000Z"
+    },
+    {
+        "id": "sepler_necklace45",
+        "slug": "necklace45",
+        "name": "Gothic Sepə — Zəncir #45",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik",
+            "chain"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace45-1.webp",
+            "/products/sepler/necklace45-2.webp",
+            "/products/sepler/necklace45-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:31:00.000Z"
+    },
+    {
+        "id": "sepler_necklace46",
+        "slug": "necklace46",
+        "name": "Gothic Sepə — Metal Zəncir #46",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace46-1.webp",
+            "/products/sepler/necklace46-2.webp",
+            "/products/sepler/necklace46-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:37:00.000Z"
+    },
+    {
+        "id": "sepler_necklace47",
+        "slug": "necklace47",
+        "name": "Gothic Sepə — Metal Zəncir #47",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace47-1.webp",
+            "/products/sepler/necklace47-2.webp",
+            "/products/sepler/necklace47-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:38:00.000Z"
+    },
+    {
+        "id": "sepler_necklace49",
+        "slug": "necklace49",
+        "name": "Gothic Sepə — Metal Zəncir #49",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace49-1.webp",
+            "/products/sepler/necklace49-2.webp",
+            "/products/sepler/necklace49-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:47:00.000Z"
+    },
+    {
+        "id": "sepler_necklace50",
+        "slug": "necklace50",
+        "name": "Gothic Sepə — Metal Zəncir #50",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace50-1.webp",
+            "/products/sepler/necklace50-2.webp",
+            "/products/sepler/necklace50-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:56:00.000Z"
+    },
+    {
+        "id": "sepler_necklace51",
+        "slug": "necklace51",
+        "name": "Gothic Sepə — Metal Zəncir #51",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace51-1.webp",
+            "/products/sepler/necklace51-2.webp",
+            "/products/sepler/necklace51-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:58:00.000Z"
+    },
+    {
+        "id": "sepler_necklace52",
+        "slug": "necklace52",
+        "name": "Gothic Sepə — Metal Zəncir #52",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace52-1.webp",
+            "/products/sepler/necklace52-2.webp",
+            "/products/sepler/necklace52-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T14:59:00.000Z"
+    },
+    {
+        "id": "sepler_necklace53",
+        "slug": "necklace53",
+        "name": "Gothic Sepə — Metal Zəncir #53",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace53-1.webp",
+            "/products/sepler/necklace53-2.webp",
+            "/products/sepler/necklace53-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:09:00.000Z"
+    },
+    {
+        "id": "sepler_necklace54",
+        "slug": "necklace54",
+        "name": "Gothic Sepə — Metal Zəncir #54",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace54-1.webp",
+            "/products/sepler/necklace54-2.webp",
+            "/products/sepler/necklace54-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:12:00.000Z"
+    },
+    {
+        "id": "sepler_necklace55",
+        "slug": "necklace55",
+        "name": "Gothic Sepə — Ulduz #55",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik",
+            "star"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace55-1.webp",
+            "/products/sepler/necklace55-2.webp",
+            "/products/sepler/necklace55-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:13:00.000Z"
+    },
+    {
+        "id": "sepler_necklace56",
+        "slug": "necklace56",
+        "name": "Gothic Sepə — Gül #56",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik",
+            "rose"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace56-1.webp",
+            "/products/sepler/necklace56-2.webp",
+            "/products/sepler/necklace56-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:20:00.000Z"
+    },
+    {
+        "id": "sepler_necklace57",
+        "slug": "necklace57",
+        "name": "Gothic Sepə — Zəncir #57",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik",
+            "chain"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace57-1.webp",
+            "/products/sepler/necklace57-2.webp",
+            "/products/sepler/necklace57-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:22:00.000Z"
+    },
+    {
+        "id": "sepler_necklace58",
+        "slug": "necklace58",
+        "name": "Gothic Sepə — İlan #58",
+        "priceAZN": 15,
+        "category": "seplər",
+        "tags": [
+            "qotik",
+            "snake",
+            "chain"
+        ],
+        "materials": [
+            "Metal"
+        ],
+        "descriptionShort": "Premium qotik üslubda hazırlanmış sepə.",
+        "descriptionLong": "RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
+        "images": [
+            "/products/sepler/necklace58-1.webp",
+            "/products/sepler/necklace58-2.webp",
+            "/products/sepler/necklace58-3.webp"
+        ],
+        "featured": false,
+        "inStock": true,
+        "createdAt": "2026-03-05T15:23:00.000Z"
     }
 ];

@@ -1,6 +1,6 @@
 {
   "sourceRoot": "aliexpress-product-images",
-  "generatedHash": "5641a002acbbd28bbfacec89fb247db87564aecb95c44bbb50db6330c6b2d35f",
+  "generatedHash": "06c701625a06590a997a028c209431d61e732b1452ab83e0c231a68c07d82961",
   "productImageCount": 3,
   "ignoredExtensions": [
     ".avif"
@@ -1237,6 +1237,426 @@
       ]
     },
     {
+      "folderName": "ring97",
+      "category": "uzukler",
+      "slug": "ring97",
+      "imageHashes": [
+        "f4349423754629bb3ac02744597dde5c57d53c7093e6eab34ff7a743d1dbc341",
+        "5e805b4c655af5209d32ed6c06019a3f2e87510f346924f4bcd252ba2d2cc7fe",
+        "688effb907e365ecf046b353e74af889022fd06458c2afddeeaf22f4ff0c4324"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring98",
+      "category": "uzukler",
+      "slug": "ring98",
+      "imageHashes": [
+        "2e78085e0d61f9f82a69f27191d7f501b4daadb41163c31146eee9eaab768437",
+        "ddf41b29001faa59682a0b829968c03cc204925a692c7ceeed3849b517611b2f",
+        "273b2f987f0d2f5c9b891bec2da2e10028d46c8fd812db4a01cd89724be38c57"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring100",
+      "category": "uzukler",
+      "slug": "ring100",
+      "imageHashes": [
+        "834f3f1d01289f73809f1735e616c0b8c28ab2465f8ba8673d5287468be8d7bd",
+        "af385cbc5bfc7fcd3dbe911c7846e3fe39ad36d6ec36b215259d6c039f9f854f",
+        "5a43a97102735378c11fe477ae6127d87b5e08924813163a67a36da38c16c721"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring101",
+      "category": "uzukler",
+      "slug": "ring101",
+      "imageHashes": [
+        "f11b43c36a8c2d6d473af85d26d7b9ecc07039c13462e671e766fdb2e79a34ca",
+        "4d9e0f2b0646755263f12087405b5e3a4a11aa0d6f80ba5d9d21d65aed0a2e11",
+        "3c2a58cc99129831ee499c52d42568262c2268d45dc833a6dbfb10aaad467718"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring102",
+      "category": "uzukler",
+      "slug": "ring102",
+      "imageHashes": [
+        "cbf39db735e2b62f8d3acd2e8011933c536769fc29d0f6b42d4ae55c9cca7ef6",
+        "2687fabfbff7110444ceecdfd670215ed4bb971413794df159ccfb0395edfea0",
+        "b4450cbdbee7fcd9bdbd07ea23c67991b1ff9f90ea59da4a0fa84a0bfb27afb5"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring103",
+      "category": "uzukler",
+      "slug": "ring103",
+      "imageHashes": [
+        "1224cba16697d9816e8a9ec25931c32bdaf400eceba3634d33b18700e22637f8",
+        "4e2b95a5b3bd859789d65d3068524516e014b3c9acac3de4536d9aff9b74ad4b",
+        "66ed1c8a5b7c41b015ecc83ca1bed99142e7e9cf6aa3c08606161f871b885bdb"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring104",
+      "category": "uzukler",
+      "slug": "ring104",
+      "imageHashes": [
+        "a8f3115f4ea7cd161206acc74fbca7ac0d89109a8b1efa9b890db3eadaadbea1",
+        "bdc35ccca07cf05351ccf771a42930d0c48fcf3113c0f647786784d2f7ca4014",
+        "ca516e8014256c3bacf6838d752161d5661798f95fd9e610fd4e0cc894a7503e"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring106",
+      "category": "uzukler",
+      "slug": "ring106",
+      "imageHashes": [
+        "204600eedc1c8b6b7a85afb41c2ac83632d98fd7d559a9ccf54a9b0ecad44a5e",
+        "973039cf5bd58ab76e4899245dc86c5cf3e85a7d7f6aeb23556cb3aabe6eb0ae",
+        "d1e2088c5aa59c722d44fb9db2bb5a0d662320e04c44beca2d81d0cc7b1aec8d"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring109",
+      "category": "uzukler",
+      "slug": "ring109",
+      "imageHashes": [
+        "801a7c649916f2a90d45b5b550586827ac500bbbc25a19042dbaacdbe478f6fc",
+        "67d38d569b793b70e4ebed81ffedc6241a6fa98d5618af0eb68a5352f5871d33",
+        "0cb89215257276aa25281afe80e688acbc0a59fd0eec3084a4ef390035c3ce31"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring112",
+      "category": "uzukler",
+      "slug": "ring112",
+      "imageHashes": [
+        "9989b317621657edb673249d5fff30a0144c88a1ea2cc8a246bc652e37c3510d",
+        "36383dd65b096bf19b32457595d2fea756a5b35e81718e280edad9c2d1d1ebea",
+        "51d2657ebc4c2142dbc72e97b326449cf542586f8645eabe062b70e5c8f89050"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring114",
+      "category": "uzukler",
+      "slug": "ring114",
+      "imageHashes": [
+        "46adb74524b4f649e64fda076fa797bcc29f4e5fc38cc5096ec83e4b8bd9c5e6",
+        "4f2e83df7b545bcce9191243077315347f4df279f18a93224d271c3d46c44ea7",
+        "68bc4b7f12cb6873c72020ca50455b051e1fb4a74b547edb9381fa0300e959b1"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring115",
+      "category": "uzukler",
+      "slug": "ring115",
+      "imageHashes": [
+        "0835b7db2a813b357fa43a20e0a5cfcc88aad973fc4a334c10d34c08d83b4db6",
+        "6a86b8c0e527ea01727f4ac3f57a322cffaffda5a8a46a04e2ff747ac3d054a3",
+        "dcbf110a382015f88ef952e8136fd48347e4d8ccd6effea2aa599cb5d53866d3"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring116",
+      "category": "uzukler",
+      "slug": "ring116",
+      "imageHashes": [
+        "030601038964a0917c65ce16fbe1649e5aa75bc71ec4f95fcd8dd87662c031e5",
+        "2f81598a3f977fc02bc4e98a5659cb64f464eed6fdee2638e69d5bb0fc0945bc",
+        "d00cb60950ff1a99ca753b41610398f8abd1d1b5d597acb46e688ef0cfa41196"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring117",
+      "category": "uzukler",
+      "slug": "ring117",
+      "imageHashes": [
+        "5997c1ae0ae9c43e87d51b8a7c0549f657690a9a5ead58fd9f9c8fe19478a5a4",
+        "ddc4b76d9824ec05639a914e8956e671c22fdd6091f3b774de04196a749c0727",
+        "728183f11a2b64667b740c8f6fe52830244227d0552f3aea7558b06c3751a39e"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring119",
+      "category": "uzukler",
+      "slug": "ring119",
+      "imageHashes": [
+        "d65bf771c24e6568674cbf9aba6ea82e13f4bcc0d2ed6f4f17180439173a3779",
+        "5fdeec5f268d01f667ad6621e2609193c1dbfb9d031a655e1b0b433ffdb8942d",
+        "195d3e7b29231ff7b82d3f8cc8cc102cd8743e536a1b9597ad1c2c31fb89da0b"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring121",
+      "category": "uzukler",
+      "slug": "ring121",
+      "imageHashes": [
+        "6811b8905a5c2abaf1a0f86d7b55c8904e8066656b170b3c28bec90403a5e454",
+        "cb22f6fd71a1b6950a4c3bd599f34c2968d84d1f8b379e52581c3bbbd14c6f16",
+        "8c4049bb133fcb56b6b69cb6b46a9ccd5173dd08329548fcd32a0a9b9c3161d3"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring122",
+      "category": "uzukler",
+      "slug": "ring122",
+      "imageHashes": [
+        "44d11ca3d0bd1621e611448266c2362d31e7f7a73b84f657dd92bfbe8996ad13",
+        "48df8eb3228f3411815ee6b8636f339032c6e85fc7c5daf4d10d3362f2c98f68",
+        "a0ceb2de6c31861cebb5e4dbb578fd6ac4768968189bd38abefa9586eec1d400"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring123",
+      "category": "uzukler",
+      "slug": "ring123",
+      "imageHashes": [
+        "3cab598fbc5b81ac26752645d4b26d368696ba1c8aef70c34eefd2e44f7472d7",
+        "150eac57ea76740d78b6f60c2887838c64a6a02c254718fcd5b97339fa8ed3a5",
+        "89b2778efdc994fa3cc42fa4b70b8d87f395cc8f120184f9039a06d60b653388"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring125",
+      "category": "uzukler",
+      "slug": "ring125",
+      "imageHashes": [
+        "ddfc11602c7dac7f2b7cf06099bf6fd1cdf6af4c0257fc707482a1e7c5f1fe9b",
+        "baf51ed6f7062efe5673be9d199b2d5f0cc91b27a1466c470f224d6621345917",
+        "113bb918e141dc784b78484e28e11a3dae8d7315034a9e5b632116e8c57b9371"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring126",
+      "category": "uzukler",
+      "slug": "ring126",
+      "imageHashes": [
+        "9cebf6a7a0cc9144346be48e5572eb569e5410026f3ba42426dfde99c8a4588d",
+        "5df5b281d7324572941201e12ecfa63ead599a1461b3efc551a55db25c5df4c2",
+        "b1bace14c8e53398faa64d34e441e2c77bf1cd9936cbe665140bb0aa48114039"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring128",
+      "category": "uzukler",
+      "slug": "ring128",
+      "imageHashes": [
+        "68722e952fbbb8b05f95e7f434272f4308d07ade53ad1f3acd1e241f412aee3f",
+        "e1ea9d43071b3678d3aac421657c52c2935cbe98c4a41a194bd39712fd7b0d9b",
+        "1e09c75bdf7542bbbef7d76e89c7387e569f11a6c5f7defc85b8b668305975a0"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring129",
+      "category": "uzukler",
+      "slug": "ring129",
+      "imageHashes": [
+        "3fb32c3cfcf2e2e55ee4111050e56ceea86ae30dbb0a5f16a14e0103968b0e2f",
+        "098ca0dde0bde3610a05370856e95d6515754329c7bf8304fdbab6612ba76799",
+        "396811eecba3378acc905c280ce79ec9bb383afab1e204a54daf592f3fe8b3ee"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring130",
+      "category": "uzukler",
+      "slug": "ring130",
+      "imageHashes": [
+        "97ee66535c6fdd2437c8d33bef03f311585ffaab9ac9af69a12da1856619f55f",
+        "569a2d35bcd2294ee63ac43f0fd2836f2bea21f09ff57d7fe57e5f40aab1a5df",
+        "f95717f292bb70ce7c427800c251dc56da64e0e54dc840439b70cb0f21c724ce"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring131",
+      "category": "uzukler",
+      "slug": "ring131",
+      "imageHashes": [
+        "d249ab5be7eea03c59ad2cbaef94c546af8265fb5c5e66ab16746f7ad39de7b8",
+        "30cd3920e03b6bf9a02ebc4971dd93dfdbc318c60996de2ccca93b47d92842c5",
+        "f7c8b25ff320a9926fffd9e72842577bdd4968e48c7515d89ff08e8f21a64a7d"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring132",
+      "category": "uzukler",
+      "slug": "ring132",
+      "imageHashes": [
+        "4e2922dcf7c7d5da470cf9437e78315a0abecab200f9624c572d11763d176718",
+        "27b9dd19f63e6757d5e9192bd667908f1b16e3c55713d01dc5e19ac631854b64",
+        "82c0e5cd54c29c85d3071768b4bd6bed5bdaabca2bad74e869526e9546873fdb"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring133",
+      "category": "uzukler",
+      "slug": "ring133",
+      "imageHashes": [
+        "ab0925bfe9c4ecbe7992bd104064a0c351d65829d2ac88b9799cd37de07e72e1",
+        "b45f8693f27594032f02b3e87a68b65824d87e6722b377fab4dae09723099ed5",
+        "a43daff8e54297b2aefb2a22adcd19e534a8c29a29fbe3657d1b2a247ca27dc3"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring134",
+      "category": "uzukler",
+      "slug": "ring134",
+      "imageHashes": [
+        "66321ccb1de1996acf37dff740172cd79f6d3452e8f07f1015c70449e6512633",
+        "15ac69c94475959b7a36036fc381846b1b329646b9c795552cc83b4215360e0c",
+        "8f99637137224486bccc728e565c485a5d33ee6dd337b6123a11daad67dd2bb6"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring138",
+      "category": "uzukler",
+      "slug": "ring138",
+      "imageHashes": [
+        "7c4f2b5b86d293e32ee4f06869858df230deb45ff8fde843227e23780da3ddcc",
+        "c1f1b3946467a62ed0179b51ba66b9f037a8513ec6e2ba11d7c67e37c7acb61b",
+        "756d82a298808b3925ee745ed77a326c875b4936578cc0dfa7315a0ea031b6c0"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
       "folderName": "necklace1",
       "category": "sepler",
       "slug": "necklace1",
@@ -1790,6 +2210,201 @@
         "02.jpg",
         "03.jpg"
       ]
+    },
+    {
+      "folderName": "necklace45",
+      "category": "sepler",
+      "slug": "necklace45",
+      "imageHashes": [
+        "2fffc89521014b3cfdbe481efbaea03321153ed183ccce641b3fb73ed0a9c22b",
+        "c0048f440b8f62583f7fde4e040900b4c1d6fc2061ed6bbc8c39d945596622de",
+        "ecc68a937eceb15ef96c7835d8d0c155a8ceb2527d1891bd9fea4c09ae72a758"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace46",
+      "category": "sepler",
+      "slug": "necklace46",
+      "imageHashes": [
+        "ab2f1105805dd47ad69591a796d4857ee20ae30e21a0fb238733b04ca7650ad5",
+        "0d04aa49f308bca124a74e94f333c328342dbb7758733412266138889f167915",
+        "0db0139e3ac0dd417e4714fff856ab05f9903e8964c37a0ea9edd59e94208be6"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace47",
+      "category": "sepler",
+      "slug": "necklace47",
+      "imageHashes": [
+        "1299baece0494c1caba15d2ab581dc976e3e536a1838d7fdaa04f9c2e52aba6a",
+        "10002160eaffba951f6f8a0b59d25977b4c2dd6f789453e65900f9e4decfaf15",
+        "5971091944e24df0cbf3ac46fa1052d389b2a07863a4fd0a4459bff0db1f9f2f"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace49",
+      "category": "sepler",
+      "slug": "necklace49",
+      "imageHashes": [
+        "ea1d44cd4d023c446aedc7404f59c0b8b1cf6e9db18432867b6158ec73f46b5a",
+        "ee5e71dee6e8be901f685660f16806030c1ba1b657a5933df82f8b9d1a0749be",
+        "10ce43804504c8b109a7143abeef35f9b2715540571554555cba42dc14e6a857"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace50",
+      "category": "sepler",
+      "slug": "necklace50",
+      "imageHashes": [
+        "9b6c2f78b358329f841ae372f421074ed6d2dacb675413a29e96d6f2fec1c666",
+        "9e6b64de9ad875aeb401eac7129f34bbaa8d3a6faba15d7f099da8185df23244",
+        "d93d61064f4cc887dfee278ae68151f886dec98da33049f618394c6b9b64f569"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace51",
+      "category": "sepler",
+      "slug": "necklace51",
+      "imageHashes": [
+        "a04130061bb230d32c6f34e0c7352dcf36001da8d6b71092b7fae635d591a600",
+        "c222552d5f507287cc12a7853059db4b4b309e2ca9a023ed2dfa3407b5e2c07b",
+        "85cab6ba104a84b325a80e7db8dd677390c6c02c6571ed269b64284a0aaafe63"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace52",
+      "category": "sepler",
+      "slug": "necklace52",
+      "imageHashes": [
+        "2e6bc14e8154e20f9eec87d209f574b4fa9927b73aed444705599fc49150f563",
+        "29c7e474e5d2b105e409a50575cf0f026599da7ae1699a1c4094f469bd4173f2",
+        "830eef97554dd5aa139556bc7d1149f6f0dc16800c5161ea119fc9970e8543d4"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace53",
+      "category": "sepler",
+      "slug": "necklace53",
+      "imageHashes": [
+        "901f2d273c7c5b23738310d7262e188c0ddc9f0c27e4dfbb68007c74df545a60",
+        "906b8b8f8516224a29de00a22aea38e1dc9c3b661138991e5bbfb1bf72e9fcda",
+        "8af2b89e8b0defe351d292f17e294795f73b05faf4cdad8ed1e34646a0531eae"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace54",
+      "category": "sepler",
+      "slug": "necklace54",
+      "imageHashes": [
+        "8af81c6bc9e0d3d652673a5051b86e30b45dcaca18b03fe04b7911c25be81ade",
+        "7fdc6b769079c15286489467e6957cc617ca453ae88c8947c3a64a3dc6091917",
+        "d1874be6bd6355255391094bbaeb9c1baea81613a690ab3cd60589018c93cf8b"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace55",
+      "category": "sepler",
+      "slug": "necklace55",
+      "imageHashes": [
+        "d87f4c0c914ce873c30be4d1d725400abe7b3ca08a86e0b84cbe4a98c43b40d7",
+        "80c56fe558bcf7713938aaa56eff3a2fc049d2b7124d40ea2aa882dac60d6612",
+        "7db573706ea7a0b0ce9a5b0383933e489c7ffdb1f40a21c4b351c85e3fa51f8c"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace56",
+      "category": "sepler",
+      "slug": "necklace56",
+      "imageHashes": [
+        "a2582477b3953d9ef7599ce5bf940e1105d373db1920638f06f112ea6c9df24a",
+        "0be80ee1323c374a99b657c58bc324c3a9b54f037037db246e3544751b060cab",
+        "2de517c0292ab2a01c25bce00c764f6e07b94961f4aa814864416697b892c6e8"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace57",
+      "category": "sepler",
+      "slug": "necklace57",
+      "imageHashes": [
+        "e52c9528bb0731e415190e07941288b1752b1e38662602729372508c0c3538a4",
+        "1cb6b1b25d704c5039e7d51f30cd3b6f0fa174e2b4f041029f39eff3e9f0918c",
+        "4937f5c2ddf611da8dccf1343d42a3ecd39c9cde000d6b3caf6ca889891ac2ae"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
+    },
+    {
+      "folderName": "necklace58",
+      "category": "sepler",
+      "slug": "necklace58",
+      "imageHashes": [
+        "776873e9259bbca7bce50ece5236f6c64388fb86a3be5c564241068328e0dff2",
+        "466157bbe28e19afee1981c45636a8f164ba0263f6cc86d5d429a3ab1d824248",
+        "5ce02d105852cae2d6091f98b141fc8f6a524e79d8d69b8e4b616a8851498dfa"
+      ],
+      "sourceImages": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg"
+      ]
     }
   ],
   "skipped": [
@@ -1923,11 +2538,133 @@
       ]
     },
     {
-      "folderName": "ring97",
+      "folderName": "ring99",
       "category": "uzukler",
-      "sourceImages": 1,
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates ring86/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring105",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates ring98/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring107",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates ring86/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring108",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates ring72/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring110",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates ring10/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring111",
+      "category": "uzukler",
+      "sourceImages": 3,
       "uniqueImages": 1,
-      "reasons": []
+      "reasons": [
+        "01.jpg: duplicates ring17/01.jpg",
+        "03.jpg: duplicates ring17/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring113",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates ring85/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring118",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates ring58/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring120",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "02.jpg: duplicates ring89/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring124",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates ring21/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring127",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 1,
+      "reasons": [
+        "01.jpg: duplicates ring40/01.jpg",
+        "03.jpg: duplicates ring40/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring135",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates ring21/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring136",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 1,
+      "reasons": [
+        "01.jpg: duplicates ring72/01.jpg",
+        "03.jpg: duplicates ring72/03.jpg"
+      ]
+    },
+    {
+      "folderName": "ring137",
+      "category": "uzukler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates ring21/03.jpg"
+      ]
     },
     {
       "folderName": "necklace23",
@@ -1981,11 +2718,20 @@
       "reasons": [
         "01.jpg: duplicates necklace40/01.jpg"
       ]
+    },
+    {
+      "folderName": "necklace48",
+      "category": "sepler",
+      "sourceImages": 3,
+      "uniqueImages": 2,
+      "reasons": [
+        "03.jpg: duplicates necklace21/03.jpg"
+      ]
     }
   ],
   "stats": {
     "localDuplicates": 3,
-    "globalDuplicates": 20,
+    "globalDuplicates": 38,
     "excessImages": 0
   }
 }
