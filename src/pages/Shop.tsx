@@ -9,6 +9,8 @@ import { Button } from '@/components/ui/Button';
 import { useCart } from '@/store/CartContext';
 import { usePageMeta } from '@/hooks/usePageMeta';
 import { formatPriceAZN } from '@/lib/format';
+import { normalizeSearchText } from '@/lib/search';
+import { useToast } from '@/components/ui/Toast';
 
 type SortOption = 'newest' | 'price-asc' | 'price-desc';
 
@@ -44,6 +46,7 @@ export function Shop() {
     const [sortBy, setSortBy] = useState<SortOption>('newest');
     const [isFilterOpen, setIsFilterOpen] = useState(false);
     const { addToCart } = useCart();
+    const { addToast } = useToast();
 
     const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
     const [selectedTags, setSelectedTags] = useState<string[]>([]);
@@ -113,11 +116,13 @@ export function Shop() {
         let result = products;
 
         if (search.trim()) {
-            const query = search.toLowerCase();
+            const query = normalizeSearchText(search);
             result = result.filter(
                 (p) =>
-                    p.name.toLowerCase().includes(query) ||
-                    p.tags.some((t) => t.toLowerCase().includes(query))
+                    normalizeSearchText(p.name).includes(query) ||
+                    normalizeSearchText(p.category).includes(query) ||
+                    p.tags.some((t) => normalizeSearchText(t).includes(query)) ||
+                    p.materials.some((m) => normalizeSearchText(m).includes(query))
             );
         }
 
@@ -155,6 +160,7 @@ export function Shop() {
             priceAZN: product.priceAZN,
             quantity: 1
         });
+        addToast(`${product.name} səbətə əlavə olundu`, 'success');
     }
 
     return (

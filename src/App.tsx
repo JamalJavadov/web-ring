@@ -3,6 +3,7 @@ import { Suspense, lazy, useLayoutEffect } from 'react';
 import { Layout } from '@/components/Layout';
 import { CartProvider } from '@/store/CartContext';
 import { WishlistProvider } from '@/store/WishlistContext';
+import { ToastProvider } from '@/components/ui/Toast';
 
 const Home = lazy(() => import('@/pages/Home').then((module) => ({ default: module.Home })));
 const Shop = lazy(() => import('@/pages/Shop').then((module) => ({ default: module.Shop })));
@@ -62,26 +63,28 @@ function App() {
     return (
         <CartProvider>
             <WishlistProvider>
-                <BrowserRouter>
-                    <ScrollManager />
-                    <Layout>
-                        <Suspense fallback={<RouteLoadingFallback />}>
-                            <Routes>
-                                <Route path="/" element={<Home />} />
-                                <Route path="/shop" element={<Shop />} />
-                                <Route path="/product/:slug" element={<ProductDetail />} />
-                                <Route path="/cart" element={<Cart />} />
-                                <Route path="/wishlist" element={<Wishlist />} />
-                                <Route path="/about" element={<About />} />
-                                <Route path="/contact" element={<Contact />} />
-                                <Route path="/faq" element={<Faq />} />
-                                <Route path="/policies/shipping" element={<PolicyShipping />} />
-                                <Route path="/policies/privacy" element={<PolicyPrivacy />} />
-                                <Route path="/policies/terms" element={<PolicyTerms />} />
-                            </Routes>
-                        </Suspense>
-                    </Layout>
-                </BrowserRouter>
+                <ToastProvider>
+                    <BrowserRouter>
+                        <ScrollManager />
+                        <Layout>
+                            <Suspense fallback={<RouteLoadingFallback />}>
+                                <Routes>
+                                    <Route path="/" element={<Home />} />
+                                    <Route path="/shop" element={<Shop />} />
+                                    <Route path="/product/:slug" element={<ProductDetail />} />
+                                    <Route path="/cart" element={<Cart />} />
+                                    <Route path="/wishlist" element={<Wishlist />} />
+                                    <Route path="/about" element={<About />} />
+                                    <Route path="/contact" element={<Contact />} />
+                                    <Route path="/faq" element={<Faq />} />
+                                    <Route path="/policies/shipping" element={<PolicyShipping />} />
+                                    <Route path="/policies/privacy" element={<PolicyPrivacy />} />
+                                    <Route path="/policies/terms" element={<PolicyTerms />} />
+                                </Routes>
+                            </Suspense>
+                        </Layout>
+                    </BrowserRouter>
+                </ToastProvider>
             </WishlistProvider>
         </CartProvider>
     );

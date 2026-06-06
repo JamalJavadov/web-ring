@@ -13,6 +13,7 @@ import { buildWhatsAppOrderUrl } from '@/lib/whatsapp';
 import { formatPriceAZN } from '@/lib/format';
 import { usePageMeta } from '@/hooks/usePageMeta';
 import { BRAND_NAME } from '@/lib/brand';
+import { useToast } from '@/components/ui/Toast';
 
 export function ProductDetail() {
     const { slug } = useParams<{ slug: string }>();
@@ -23,6 +24,7 @@ export function ProductDetail() {
 
     const { addToCart } = useCart();
     const { toggleWishlist, isInWishlist } = useWishlist();
+    const { addToast } = useToast();
 
     usePageMeta(
         product
@@ -125,6 +127,15 @@ export function ProductDetail() {
             priceAZN: product.priceAZN,
             quantity,
         });
+        addToast(`${product.name} səbətə əlavə olundu`, 'success');
+    };
+
+    const handleToggleWishlist = () => {
+        toggleWishlist(product.id);
+        addToast(
+            isWishlisted ? 'Məhsul seçilmişlərdən silindi' : 'Məhsul seçilmişlərə əlavə olundu',
+            'success'
+        );
     };
 
     return (
@@ -146,7 +157,7 @@ export function ProductDetail() {
                             onVariantChange={handleVariantChange}
                         />
                         <button
-                            onClick={() => toggleWishlist(product.id)}
+                            onClick={handleToggleWishlist}
                             className="ml-4 p-2 min-h-[44px] min-w-[44px] text-[var(--muted)] hover:text-[var(--accent)] transition-colors"
                             aria-label={isWishlisted ? 'Seçilmişlərdən sil' : 'Seçilmişlərə əlavə et'}
                         >

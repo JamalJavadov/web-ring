@@ -1,7 +1,7 @@
 import { createContext, useContext, useState, ReactNode, useCallback } from 'react';
 
 interface Toast {
-    id: number;
+    id: string;
     message: string;
     type: 'success' | 'error' | 'info';
 }
@@ -16,7 +16,7 @@ export function ToastProvider({ children }: { children: ReactNode }) {
     const [toasts, setToasts] = useState<Toast[]>([]);
 
     const addToast = useCallback((message: string, type: Toast['type'] = 'info') => {
-        const id = Date.now();
+        const id = `${Date.now()}-${Math.random().toString(36).slice(2)}`;
         setToasts((prev) => [...prev, { id, message, type }]);
 
         // Auto-remove after 3s

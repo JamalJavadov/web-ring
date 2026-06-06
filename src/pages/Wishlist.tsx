@@ -5,6 +5,7 @@ import { products } from '@/data/products.generated';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { formatPriceAZN } from '@/lib/format';
 import { usePageMeta } from '@/hooks/usePageMeta';
+import { useToast } from '@/components/ui/Toast';
 
 export function Wishlist() {
     usePageMeta({
@@ -14,6 +15,7 @@ export function Wishlist() {
 
     const { items: wishlistItems, toggleWishlist } = useWishlist();
     const { addToCart } = useCart();
+    const { addToast } = useToast();
 
     if (wishlistItems.length === 0) {
         return (
@@ -50,8 +52,13 @@ export function Wishlist() {
             quantity: 1
         });
 
-        // Remove from wishlist after moving
         toggleWishlist(productId);
+        addToast(`${product.name} səbətə köçürüldü`, 'success');
+    };
+
+    const handleRemove = (productId: string | number) => {
+        toggleWishlist(productId);
+        addToast('Məhsul seçilmişlərdən silindi', 'success');
     };
 
     return (
@@ -78,7 +85,7 @@ export function Wishlist() {
                                 </Link>
 
                                 <button
-                                    onClick={() => toggleWishlist(product.id)}
+                                    onClick={() => handleRemove(product.id)}
                                     className="absolute top-3 right-3 p-1.5 bg-[var(--surface)] border border-[var(--border)] text-white hover:text-red-500 hover:border-red-500 transition-colors z-10"
                                     aria-label="Sil"
                                 >
