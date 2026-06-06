@@ -17,48 +17,67 @@ function resolveBadge(product: Product): { label: string; variant: 'default' | '
 
 export function ProductCard({ product, onQuickAdd }: ProductCardProps) {
     const badge = resolveBadge(product);
+    const productHref = `/product/${product.slug}`;
+    const saveCurrentScroll = () => {
+        if (window.location.pathname !== '/shop') {
+            return;
+        }
+
+        const currentState = window.history.state;
+
+        window.history.replaceState(
+            {
+                ...(currentState ?? {}),
+                shopScrollY: window.scrollY,
+            },
+            '',
+            window.location.href
+        );
+        window.sessionStorage.setItem('shop-scroll-y', String(window.scrollY));
+    };
 
     return (
         <div className="group flex flex-col transition-transform duration-200 hover:-translate-y-0.5">
             <Link
-                to={`/product/${product.slug}`}
-                className="relative aspect-[4/5] bg-[var(--surface)] border border-[var(--border)] overflow-hidden mb-3 transition-all duration-300 group-hover:border-[var(--accent)]"
+                to={productHref}
+                onClick={saveCurrentScroll}
+                aria-label={`${product.name} məhsuluna bax`}
+                className="flex flex-col flex-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)] focus-visible:ring-offset-4 focus-visible:ring-offset-[var(--bg)]"
             >
-                <img
-                    src={product.images[0]}
-                    alt={product.name}
-                    loading="lazy"
-                    className={`w-full h-full object-cover transition-transform duration-500 group-hover:scale-105 ${!product.inStock ? 'grayscale opacity-60' : ''}`}
-                />
+                <div className="relative aspect-[4/5] bg-[var(--surface)] border border-[var(--border)] overflow-hidden mb-3 transition-all duration-300 group-hover:border-[var(--accent)]">
+                    <img
+                        src={product.images[0]}
+                        alt={product.name}
+                        loading="lazy"
+                        className={`w-full h-full object-cover transition-transform duration-500 group-hover:scale-105 ${!product.inStock ? 'grayscale opacity-60' : ''}`}
+                    />
 
-                {badge && (
-                    <div className="absolute top-3 left-3">
-                        <Badge variant={badge.variant}>{badge.label}</Badge>
-                    </div>
-                )}
-            </Link>
-
-            <div className="flex flex-col gap-1">
-                <p className="text-xs uppercase tracking-wider text-[var(--muted)]">
-                    {product.category}
-                </p>
-                <Link
-                    to={`/product/${product.slug}`}
-                    className="text-sm font-medium text-white group-hover:text-[var(--accent)] transition-colors line-clamp-1"
-                >
-                    {product.name}
-                </Link>
-                <div className="flex items-center gap-2">
-                    <span className="text-sm font-medium text-white">
-                        {formatPriceAZN(product.priceAZN)}
-                    </span>
-                    {product.oldPriceAZN && (
-                        <span className="text-xs text-[var(--muted)] line-through">
-                            {formatPriceAZN(product.oldPriceAZN)}
-                        </span>
+                    {badge && (
+                        <div className="absolute top-3 left-3">
+                            <Badge variant={badge.variant}>{badge.label}</Badge>
+                        </div>
                     )}
                 </div>
-            </div>
+
+                <div className="flex flex-col gap-1">
+                    <p className="text-xs uppercase tracking-wider text-[var(--muted)]">
+                        {product.category}
+                    </p>
+                    <p className="text-sm font-medium text-white group-hover:text-[var(--accent)] transition-colors line-clamp-2 min-h-[2.5rem]">
+                        {product.name}
+                    </p>
+                    <div className="flex items-center gap-2">
+                        <span className="text-sm font-medium text-white">
+                            {formatPriceAZN(product.priceAZN)}
+                        </span>
+                        {product.oldPriceAZN && (
+                            <span className="text-xs text-[var(--muted)] line-through">
+                                {formatPriceAZN(product.oldPriceAZN)}
+                            </span>
+                        )}
+                    </div>
+                </div>
+            </Link>
 
             <button
                 type="button"

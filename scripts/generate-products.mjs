@@ -143,20 +143,6 @@ function keywordLabelAz(keywordKey) {
     return KEYWORD_DICTIONARY.find((item) => item.key === keywordKey)?.labelAz;
 }
 
-function toRoman(index) {
-    const roman = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
-
-    if (index <= 0) {
-        return '';
-    }
-
-    if (index <= roman.length) {
-        return roman[index - 1];
-    }
-
-    return `(${index})`;
-}
-
 function parseCsv(content) {
     const rows = [];
     let row = [];
@@ -473,23 +459,24 @@ async function writeOptimizedProductImage(sourceImage, outputDir, slug, index) {
     }
 }
 
-function buildProductName(category, keywordKeys, usedNames) {
-    const leadKeyword = keywordKeys[0];
-    const label = leadKeyword ? keywordLabelAz(leadKeyword) : category.fallbackName;
-    const baseName = `${category.namePrefix}${label}`;
-    const existingCount = usedNames.get(baseName) ?? 0;
-
-    usedNames.set(baseName, existingCount + 1);
-
-    if (existingCount === 0) {
-        return baseName;
+function deriveModelCode(folderName) {
+    const match = folderName.match(/\d+$/);
+    if (!match) {
+        return '';
     }
 
-    return `${baseName} ${toRoman(existingCount + 1)}`;
+    return `#${match[0].padStart(2, '0')}`;
+}
+
+function buildProductName(category, keywordKeys, folderName) {
+    const leadKeyword = keywordKeys[0];
+    const label = leadKeyword ? keywordLabelAz(leadKeyword) : category.fallbackName;
+    const modelCode = deriveModelCode(folderName);
+
+    return `${category.namePrefix}${label}${modelCode ? ` ${modelCode}` : ''}`;
 }
 
 function buildProducts(selectedFolders, productsByFolder) {
-    const usedNamesByCategory = new Map(CATEGORIES.map((category) => [category.key, new Map()]));
     const baseDateMs = Date.UTC(2026, 2, 5, 12, 0, 0);
 
     return selectedFolders.map((folder, index) => {
@@ -498,14 +485,13 @@ function buildProducts(selectedFolders, productsByFolder) {
             .join(' ');
         const hintText = `${folder.name} ${reportText} ${folder.selectedImages.map((image) => image.baseName).join(' ')}`;
         const keywordKeys = inferKeywordKeys(hintText);
-        const usedNames = usedNamesByCategory.get(folder.category.key);
         const images = productsByFolder.get(folder.name) ?? [];
         const createdAtOffset = (folder.report?.productNumber || index + 1) * 60 * 1000;
 
         return {
             id: `${folder.category.key}_${folder.slug}`,
             slug: folder.slug,
-            name: buildProductName(folder.category, keywordKeys, usedNames),
+            name: buildProductName(folder.category, keywordKeys, folder.name),
             priceAZN: folder.category.priceAZN,
             category: folder.category.label,
             tags: ['qotik', ...keywordKeys.filter((key) => key !== 'gothic')],

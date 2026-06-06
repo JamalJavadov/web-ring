@@ -28,7 +28,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring1",
         "slug": "ring1",
-        "name": "Gothic Üzük — İlan",
+        "name": "Gothic Üzük — İlan #01",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -52,7 +52,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring2",
         "slug": "ring2",
-        "name": "Gothic Üzük — Qara Metal",
+        "name": "Gothic Üzük — Qara Metal #02",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -75,7 +75,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring3",
         "slug": "ring3",
-        "name": "Gothic Üzük — Qara Metal II",
+        "name": "Gothic Üzük — Qara Metal #03",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -98,7 +98,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring4",
         "slug": "ring4",
-        "name": "Gothic Üzük — Əjdaha",
+        "name": "Gothic Üzük — Əjdaha #04",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -122,7 +122,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring5",
         "slug": "ring5",
-        "name": "Gothic Üzük — Canavar",
+        "name": "Gothic Üzük — Canavar #05",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -147,7 +147,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring6",
         "slug": "ring6",
-        "name": "Gothic Üzük — Qara Metal III",
+        "name": "Gothic Üzük — Qara Metal #06",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -170,7 +170,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring7",
         "slug": "ring7",
-        "name": "Gothic Üzük — Kəllə",
+        "name": "Gothic Üzük — Kəllə #07",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -194,7 +194,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring8",
         "slug": "ring8",
-        "name": "Gothic Üzük — Qara Metal IV",
+        "name": "Gothic Üzük — Qara Metal #08",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -217,7 +217,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring9",
         "slug": "ring9",
-        "name": "Gothic Üzük — Qara Metal V",
+        "name": "Gothic Üzük — Qara Metal #09",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -240,7 +240,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring10",
         "slug": "ring10",
-        "name": "Gothic Üzük — Kəllə II",
+        "name": "Gothic Üzük — Kəllə #10",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -264,7 +264,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring11",
         "slug": "ring11",
-        "name": "Gothic Üzük — Qara Metal VI",
+        "name": "Gothic Üzük — Qara Metal #11",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -287,7 +287,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring12",
         "slug": "ring12",
-        "name": "Gothic Üzük — Kəllə III",
+        "name": "Gothic Üzük — Kəllə #12",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -311,7 +311,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring13",
         "slug": "ring13",
-        "name": "Gothic Üzük — Vikinq",
+        "name": "Gothic Üzük — Vikinq #13",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -335,7 +335,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring14",
         "slug": "ring14",
-        "name": "Gothic Üzük — Qara Metal VII",
+        "name": "Gothic Üzük — Qara Metal #14",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -358,7 +358,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring15",
         "slug": "ring15",
-        "name": "Gothic Üzük — Qara Metal VIII",
+        "name": "Gothic Üzük — Qara Metal #15",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -381,7 +381,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring16",
         "slug": "ring16",
-        "name": "Gothic Üzük — Qara Metal IX",
+        "name": "Gothic Üzük — Qara Metal #16",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -404,7 +404,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring17",
         "slug": "ring17",
-        "name": "Gothic Üzük — Kəllə IV",
+        "name": "Gothic Üzük — Kəllə #17",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -428,7 +428,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring18",
         "slug": "ring18",
-        "name": "Gothic Üzük — Qara Metal X",
+        "name": "Gothic Üzük — Qara Metal #18",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -451,7 +451,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring19",
         "slug": "ring19",
-        "name": "Gothic Üzük — Qara Metal (11)",
+        "name": "Gothic Üzük — Qara Metal #19",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -474,7 +474,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring20",
         "slug": "ring20",
-        "name": "Gothic Üzük — Qara Metal (12)",
+        "name": "Gothic Üzük — Qara Metal #20",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -497,7 +497,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring21",
         "slug": "ring21",
-        "name": "Gothic Üzük — Qara Metal (13)",
+        "name": "Gothic Üzük — Qara Metal #21",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -520,7 +520,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring22",
         "slug": "ring22",
-        "name": "Gothic Üzük — Qara Metal (14)",
+        "name": "Gothic Üzük — Qara Metal #22",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -543,7 +543,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring23",
         "slug": "ring23",
-        "name": "Gothic Üzük — Əjdaha II",
+        "name": "Gothic Üzük — Əjdaha #23",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -567,7 +567,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring26",
         "slug": "ring26",
-        "name": "Gothic Üzük — Kəllə V",
+        "name": "Gothic Üzük — Kəllə #26",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -591,7 +591,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring27",
         "slug": "ring27",
-        "name": "Gothic Üzük — Kəllə VI",
+        "name": "Gothic Üzük — Kəllə #27",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -615,7 +615,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring28",
         "slug": "ring28",
-        "name": "Gothic Üzük — Kəllə VII",
+        "name": "Gothic Üzük — Kəllə #28",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -639,7 +639,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring29",
         "slug": "ring29",
-        "name": "Gothic Üzük — Qara Metal (15)",
+        "name": "Gothic Üzük — Qara Metal #29",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -662,7 +662,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring30",
         "slug": "ring30",
-        "name": "Gothic Üzük — Kəllə VIII",
+        "name": "Gothic Üzük — Kəllə #30",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -686,7 +686,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring31",
         "slug": "ring31",
-        "name": "Gothic Üzük — Qara Metal (16)",
+        "name": "Gothic Üzük — Qara Metal #31",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -709,7 +709,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring33",
         "slug": "ring33",
-        "name": "Gothic Üzük — Qara Metal (17)",
+        "name": "Gothic Üzük — Qara Metal #33",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -732,7 +732,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring34",
         "slug": "ring34",
-        "name": "Gothic Üzük — Qara Metal (18)",
+        "name": "Gothic Üzük — Qara Metal #34",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -755,7 +755,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring35",
         "slug": "ring35",
-        "name": "Gothic Üzük — Əjdaha III",
+        "name": "Gothic Üzük — Əjdaha #35",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -779,7 +779,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring36",
         "slug": "ring36",
-        "name": "Gothic Üzük — Qara Metal (19)",
+        "name": "Gothic Üzük — Qara Metal #36",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -802,7 +802,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring37",
         "slug": "ring37",
-        "name": "Gothic Üzük — Qara Metal (20)",
+        "name": "Gothic Üzük — Qara Metal #37",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -825,7 +825,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring38",
         "slug": "ring38",
-        "name": "Gothic Üzük — Vikinq II",
+        "name": "Gothic Üzük — Vikinq #38",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -849,7 +849,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring39",
         "slug": "ring39",
-        "name": "Gothic Üzük — Canavar II",
+        "name": "Gothic Üzük — Canavar #39",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -874,7 +874,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring40",
         "slug": "ring40",
-        "name": "Gothic Üzük — Qara Metal (21)",
+        "name": "Gothic Üzük — Qara Metal #40",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -897,7 +897,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring41",
         "slug": "ring41",
-        "name": "Gothic Üzük — Qara Metal (22)",
+        "name": "Gothic Üzük — Qara Metal #41",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -920,7 +920,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring42",
         "slug": "ring42",
-        "name": "Gothic Üzük — Qara Metal (23)",
+        "name": "Gothic Üzük — Qara Metal #42",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -943,7 +943,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring43",
         "slug": "ring43",
-        "name": "Gothic Üzük — Qara Metal (24)",
+        "name": "Gothic Üzük — Qara Metal #43",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -966,7 +966,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring44",
         "slug": "ring44",
-        "name": "Gothic Üzük — Kəllə IX",
+        "name": "Gothic Üzük — Kəllə #44",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -990,7 +990,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring45",
         "slug": "ring45",
-        "name": "Gothic Üzük — Kəllə X",
+        "name": "Gothic Üzük — Kəllə #45",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1014,7 +1014,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring46",
         "slug": "ring46",
-        "name": "Gothic Üzük — Qara Metal (25)",
+        "name": "Gothic Üzük — Qara Metal #46",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1037,7 +1037,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring49",
         "slug": "ring49",
-        "name": "Gothic Üzük — Ulduz",
+        "name": "Gothic Üzük — Ulduz #49",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1061,7 +1061,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring50",
         "slug": "ring50",
-        "name": "Gothic Üzük — Qara Metal (26)",
+        "name": "Gothic Üzük — Qara Metal #50",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1084,7 +1084,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring52",
         "slug": "ring52",
-        "name": "Gothic Üzük — Qara Metal (27)",
+        "name": "Gothic Üzük — Qara Metal #52",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1107,7 +1107,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring53",
         "slug": "ring53",
-        "name": "Gothic Üzük — Qara Metal (28)",
+        "name": "Gothic Üzük — Qara Metal #53",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1130,7 +1130,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring54",
         "slug": "ring54",
-        "name": "Gothic Üzük — Kəllə (11)",
+        "name": "Gothic Üzük — Kəllə #54",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1154,7 +1154,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring55",
         "slug": "ring55",
-        "name": "Gothic Üzük — Qara Metal (29)",
+        "name": "Gothic Üzük — Qara Metal #55",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1177,7 +1177,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring56",
         "slug": "ring56",
-        "name": "Gothic Üzük — Qara Metal (30)",
+        "name": "Gothic Üzük — Qara Metal #56",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1200,7 +1200,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring57",
         "slug": "ring57",
-        "name": "Gothic Üzük — Qara Metal (31)",
+        "name": "Gothic Üzük — Qara Metal #57",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1223,7 +1223,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring58",
         "slug": "ring58",
-        "name": "Gothic Üzük — İlan II",
+        "name": "Gothic Üzük — İlan #58",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1247,7 +1247,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring59",
         "slug": "ring59",
-        "name": "Gothic Üzük — Vikinq III",
+        "name": "Gothic Üzük — Vikinq #59",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1271,7 +1271,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring60",
         "slug": "ring60",
-        "name": "Gothic Üzük — Qara Metal (32)",
+        "name": "Gothic Üzük — Qara Metal #60",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1294,7 +1294,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring61",
         "slug": "ring61",
-        "name": "Gothic Üzük — Qara Metal (33)",
+        "name": "Gothic Üzük — Qara Metal #61",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1317,7 +1317,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring62",
         "slug": "ring62",
-        "name": "Gothic Üzük — Qara Metal (34)",
+        "name": "Gothic Üzük — Qara Metal #62",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1340,7 +1340,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring63",
         "slug": "ring63",
-        "name": "Gothic Üzük — Canavar III",
+        "name": "Gothic Üzük — Canavar #63",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1365,7 +1365,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring65",
         "slug": "ring65",
-        "name": "Gothic Üzük — Qara Metal (35)",
+        "name": "Gothic Üzük — Qara Metal #65",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1388,7 +1388,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring66",
         "slug": "ring66",
-        "name": "Gothic Üzük — Kəllə (12)",
+        "name": "Gothic Üzük — Kəllə #66",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1412,7 +1412,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring67",
         "slug": "ring67",
-        "name": "Gothic Üzük — Qara Metal (36)",
+        "name": "Gothic Üzük — Qara Metal #67",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1435,7 +1435,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring68",
         "slug": "ring68",
-        "name": "Gothic Üzük — Qara Metal (37)",
+        "name": "Gothic Üzük — Qara Metal #68",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1458,7 +1458,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring69",
         "slug": "ring69",
-        "name": "Gothic Üzük — Qara Metal (38)",
+        "name": "Gothic Üzük — Qara Metal #69",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1481,7 +1481,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring70",
         "slug": "ring70",
-        "name": "Gothic Üzük — Qara Metal (39)",
+        "name": "Gothic Üzük — Qara Metal #70",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1504,7 +1504,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring71",
         "slug": "ring71",
-        "name": "Gothic Üzük — Kəllə (13)",
+        "name": "Gothic Üzük — Kəllə #71",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1528,7 +1528,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring72",
         "slug": "ring72",
-        "name": "Gothic Üzük — Qara Metal (40)",
+        "name": "Gothic Üzük — Qara Metal #72",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1551,7 +1551,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring74",
         "slug": "ring74",
-        "name": "Gothic Üzük — Qara Metal (41)",
+        "name": "Gothic Üzük — Qara Metal #74",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1574,7 +1574,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring75",
         "slug": "ring75",
-        "name": "Gothic Üzük — Qara Metal (42)",
+        "name": "Gothic Üzük — Qara Metal #75",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1597,7 +1597,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring76",
         "slug": "ring76",
-        "name": "Gothic Üzük — Qara Metal (43)",
+        "name": "Gothic Üzük — Qara Metal #76",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1620,7 +1620,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring78",
         "slug": "ring78",
-        "name": "Gothic Üzük — Qara Metal (44)",
+        "name": "Gothic Üzük — Qara Metal #78",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1643,7 +1643,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring80",
         "slug": "ring80",
-        "name": "Gothic Üzük — Qara Metal (45)",
+        "name": "Gothic Üzük — Qara Metal #80",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1666,7 +1666,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring82",
         "slug": "ring82",
-        "name": "Gothic Üzük — Kəllə (14)",
+        "name": "Gothic Üzük — Kəllə #82",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1690,7 +1690,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring83",
         "slug": "ring83",
-        "name": "Gothic Üzük — Qara Metal (46)",
+        "name": "Gothic Üzük — Qara Metal #83",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1713,7 +1713,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring85",
         "slug": "ring85",
-        "name": "Gothic Üzük — Kəllə (15)",
+        "name": "Gothic Üzük — Kəllə #85",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1737,7 +1737,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring86",
         "slug": "ring86",
-        "name": "Gothic Üzük — Qara Metal (47)",
+        "name": "Gothic Üzük — Qara Metal #86",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1760,7 +1760,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring87",
         "slug": "ring87",
-        "name": "Gothic Üzük — Qara Metal (48)",
+        "name": "Gothic Üzük — Qara Metal #87",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1783,7 +1783,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring88",
         "slug": "ring88",
-        "name": "Gothic Üzük — Kəllə (16)",
+        "name": "Gothic Üzük — Kəllə #88",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1807,7 +1807,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring89",
         "slug": "ring89",
-        "name": "Gothic Üzük — Qara Metal (49)",
+        "name": "Gothic Üzük — Qara Metal #89",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1830,7 +1830,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring90",
         "slug": "ring90",
-        "name": "Gothic Üzük — Əjdaha IV",
+        "name": "Gothic Üzük — Əjdaha #90",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1854,7 +1854,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring91",
         "slug": "ring91",
-        "name": "Gothic Üzük — Qara Metal (50)",
+        "name": "Gothic Üzük — Qara Metal #91",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1877,7 +1877,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring93",
         "slug": "ring93",
-        "name": "Gothic Üzük — Kəllə (17)",
+        "name": "Gothic Üzük — Kəllə #93",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1902,7 +1902,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring95",
         "slug": "ring95",
-        "name": "Gothic Üzük — Qara Metal (51)",
+        "name": "Gothic Üzük — Qara Metal #95",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1925,7 +1925,7 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring96",
         "slug": "ring96",
-        "name": "Gothic Üzük — Qara Metal (52)",
+        "name": "Gothic Üzük — Qara Metal #96",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
@@ -1948,7 +1948,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace1",
         "slug": "necklace1",
-        "name": "Gothic Sepə — Metal Zəncir",
+        "name": "Gothic Sepə — Metal Zəncir #01",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -1971,7 +1971,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace2",
         "slug": "necklace2",
-        "name": "Gothic Sepə — Kəllə",
+        "name": "Gothic Sepə — Kəllə #02",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -1996,7 +1996,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace3",
         "slug": "necklace3",
-        "name": "Gothic Sepə — Kəllə II",
+        "name": "Gothic Sepə — Kəllə #03",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2020,7 +2020,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace4",
         "slug": "necklace4",
-        "name": "Gothic Sepə — Xaç",
+        "name": "Gothic Sepə — Xaç #04",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2044,7 +2044,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace6",
         "slug": "necklace6",
-        "name": "Gothic Sepə — Xaç II",
+        "name": "Gothic Sepə — Xaç #06",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2069,7 +2069,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace7",
         "slug": "necklace7",
-        "name": "Gothic Sepə — Zəncir",
+        "name": "Gothic Sepə — Zəncir #07",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2093,7 +2093,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace8",
         "slug": "necklace8",
-        "name": "Gothic Sepə — Metal Zəncir II",
+        "name": "Gothic Sepə — Metal Zəncir #08",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2116,7 +2116,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace9",
         "slug": "necklace9",
-        "name": "Gothic Sepə — Zəncir II",
+        "name": "Gothic Sepə — Zəncir #09",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2140,7 +2140,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace10",
         "slug": "necklace10",
-        "name": "Gothic Sepə — Metal Zəncir III",
+        "name": "Gothic Sepə — Metal Zəncir #10",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2163,7 +2163,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace11",
         "slug": "necklace11",
-        "name": "Gothic Sepə — Metal Zəncir IV",
+        "name": "Gothic Sepə — Metal Zəncir #11",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2186,7 +2186,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace12",
         "slug": "necklace12",
-        "name": "Gothic Sepə — Xaç III",
+        "name": "Gothic Sepə — Xaç #12",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2210,7 +2210,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace13",
         "slug": "necklace13",
-        "name": "Gothic Sepə — Xaç IV",
+        "name": "Gothic Sepə — Xaç #13",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2234,7 +2234,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace14",
         "slug": "necklace14",
-        "name": "Gothic Sepə — Xaç V",
+        "name": "Gothic Sepə — Xaç #14",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2258,7 +2258,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace15",
         "slug": "necklace15",
-        "name": "Gothic Sepə — Xaç VI",
+        "name": "Gothic Sepə — Xaç #15",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2282,7 +2282,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace16",
         "slug": "necklace16",
-        "name": "Gothic Sepə — Metal Zəncir V",
+        "name": "Gothic Sepə — Metal Zəncir #16",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2305,7 +2305,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace17",
         "slug": "necklace17",
-        "name": "Gothic Sepə — Metal Zəncir VI",
+        "name": "Gothic Sepə — Metal Zəncir #17",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2328,7 +2328,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace18",
         "slug": "necklace18",
-        "name": "Gothic Sepə — Xaç VII",
+        "name": "Gothic Sepə — Xaç #18",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2352,7 +2352,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace19",
         "slug": "necklace19",
-        "name": "Gothic Sepə — Xaç VIII",
+        "name": "Gothic Sepə — Xaç #19",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2376,7 +2376,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace20",
         "slug": "necklace20",
-        "name": "Gothic Sepə — Metal Zəncir VII",
+        "name": "Gothic Sepə — Metal Zəncir #20",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2399,7 +2399,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace21",
         "slug": "necklace21",
-        "name": "Gothic Sepə — Zəncir III",
+        "name": "Gothic Sepə — Zəncir #21",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2423,7 +2423,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace22",
         "slug": "necklace22",
-        "name": "Gothic Sepə — Metal Zəncir VIII",
+        "name": "Gothic Sepə — Metal Zəncir #22",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2446,7 +2446,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace24",
         "slug": "necklace24",
-        "name": "Gothic Sepə — Metal Zəncir IX",
+        "name": "Gothic Sepə — Metal Zəncir #24",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2469,7 +2469,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace25",
         "slug": "necklace25",
-        "name": "Gothic Sepə — Metal Zəncir X",
+        "name": "Gothic Sepə — Metal Zəncir #25",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2492,7 +2492,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace26",
         "slug": "necklace26",
-        "name": "Gothic Sepə — Zəncir IV",
+        "name": "Gothic Sepə — Zəncir #26",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2516,7 +2516,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace27",
         "slug": "necklace27",
-        "name": "Gothic Sepə — Metal Zəncir (11)",
+        "name": "Gothic Sepə — Metal Zəncir #27",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2539,7 +2539,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace28",
         "slug": "necklace28",
-        "name": "Gothic Sepə — Əjdaha",
+        "name": "Gothic Sepə — Əjdaha #28",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2564,7 +2564,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace29",
         "slug": "necklace29",
-        "name": "Gothic Sepə — Metal Zəncir (12)",
+        "name": "Gothic Sepə — Metal Zəncir #29",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2587,7 +2587,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace30",
         "slug": "necklace30",
-        "name": "Gothic Sepə — Zəncir V",
+        "name": "Gothic Sepə — Zəncir #30",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2611,7 +2611,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace32",
         "slug": "necklace32",
-        "name": "Gothic Sepə — Metal Zəncir (13)",
+        "name": "Gothic Sepə — Metal Zəncir #32",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2634,7 +2634,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace34",
         "slug": "necklace34",
-        "name": "Gothic Sepə — Metal Zəncir (14)",
+        "name": "Gothic Sepə — Metal Zəncir #34",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2657,7 +2657,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace36",
         "slug": "necklace36",
-        "name": "Gothic Sepə — Xaç IX",
+        "name": "Gothic Sepə — Xaç #36",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2681,7 +2681,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace37",
         "slug": "necklace37",
-        "name": "Gothic Sepə — Metal Zəncir (15)",
+        "name": "Gothic Sepə — Metal Zəncir #37",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2704,7 +2704,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace39",
         "slug": "necklace39",
-        "name": "Gothic Sepə — Metal Zəncir (16)",
+        "name": "Gothic Sepə — Metal Zəncir #39",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2727,7 +2727,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace40",
         "slug": "necklace40",
-        "name": "Gothic Sepə — Metal Zəncir (17)",
+        "name": "Gothic Sepə — Metal Zəncir #40",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2750,7 +2750,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace41",
         "slug": "necklace41",
-        "name": "Gothic Sepə — Zəncir VI",
+        "name": "Gothic Sepə — Zəncir #41",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2774,7 +2774,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace42",
         "slug": "necklace42",
-        "name": "Gothic Sepə — Metal Zəncir (18)",
+        "name": "Gothic Sepə — Metal Zəncir #42",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [
@@ -2797,7 +2797,7 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace44",
         "slug": "necklace44",
-        "name": "Gothic Sepə — Zəncir VII",
+        "name": "Gothic Sepə — Zəncir #44",
         "priceAZN": 15,
         "category": "seplər",
         "tags": [

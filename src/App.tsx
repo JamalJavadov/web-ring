@@ -1,5 +1,5 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import { Suspense, lazy } from 'react';
+import { BrowserRouter, Routes, Route, useLocation, useNavigationType } from 'react-router-dom';
+import { Suspense, lazy, useLayoutEffect } from 'react';
 import { Layout } from '@/components/Layout';
 import { CartProvider } from '@/store/CartContext';
 import { WishlistProvider } from '@/store/WishlistContext';
@@ -26,11 +26,36 @@ const PolicyTerms = lazy(() =>
 
 function RouteLoadingFallback() {
     return (
-        <div className="max-w-7xl mx-auto px-4 py-20">
+        <div className="max-w-7xl mx-auto px-4 py-20 min-h-[60vh]">
             <div className="h-4 w-28 bg-[var(--surface)] rounded mb-4 animate-pulse" />
             <div className="h-10 w-64 bg-[var(--surface)] rounded animate-pulse" />
         </div>
     );
+}
+
+function ScrollManager() {
+    const location = useLocation();
+    const navigationType = useNavigationType();
+
+    useLayoutEffect(() => {
+        if ('scrollRestoration' in window.history) {
+            window.history.scrollRestoration = 'manual';
+        }
+
+        return () => {
+            if ('scrollRestoration' in window.history) {
+                window.history.scrollRestoration = 'auto';
+            }
+        };
+    }, []);
+
+    useLayoutEffect(() => {
+        if (navigationType !== 'POP') {
+            window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+        }
+    }, [location.pathname, location.search, navigationType]);
+
+    return null;
 }
 
 function App() {
@@ -38,6 +63,7 @@ function App() {
         <CartProvider>
             <WishlistProvider>
                 <BrowserRouter>
+                    <ScrollManager />
                     <Layout>
                         <Suspense fallback={<RouteLoadingFallback />}>
                             <Routes>

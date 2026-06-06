@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useEffect, useState, useMemo } from 'react';
 import { products } from '@/data/products.generated';
 import type { Product } from '@/types/product';
 import { ProductCard } from '@/components/product/ProductCard';
@@ -18,6 +18,7 @@ const allMaterials = [...new Set(products.flatMap((p) => p.materials))];
 
 const PRICE_MIN = 0;
 const PRICE_MAX = products.length > 0 ? Math.ceil(Math.max(...products.map((p) => p.priceAZN))) : 0;
+const SHOP_SCROLL_KEY = 'shop-scroll-y';
 
 function sortProducts(items: Product[], sortBy: SortOption): Product[] {
     const sorted = [...items];
@@ -51,6 +52,43 @@ export function Shop() {
     const [priceMax, setPriceMax] = useState(PRICE_MAX);
 
     const [isLoading] = useState(false);
+
+    useEffect(() => {
+        function saveShopScroll() {
+            window.sessionStorage.setItem(SHOP_SCROLL_KEY, String(window.scrollY));
+        }
+
+        window.addEventListener('scroll', saveShopScroll, { passive: true });
+
+        return () => {
+            saveShopScroll();
+            window.removeEventListener('scroll', saveShopScroll);
+        };
+    }, []);
+
+    useEffect(() => {
+        const historyState = window.history.state as { shopScrollY?: number } | null;
+        const historyScroll = Number(historyState?.shopScrollY ?? 0);
+        const storedScroll = historyScroll || Number(window.sessionStorage.getItem(SHOP_SCROLL_KEY) ?? 0);
+        if (!Number.isFinite(storedScroll) || storedScroll <= 0) {
+            return;
+        }
+
+        const restoreScroll = () => {
+            window.scrollTo({ top: storedScroll, left: 0, behavior: 'auto' });
+        };
+
+        restoreScroll();
+        const animationFrame = window.requestAnimationFrame(restoreScroll);
+        const firstTimer = window.setTimeout(restoreScroll, 150);
+        const secondTimer = window.setTimeout(restoreScroll, 400);
+
+        return () => {
+            window.cancelAnimationFrame(animationFrame);
+            window.clearTimeout(firstTimer);
+            window.clearTimeout(secondTimer);
+        };
+    }, []);
 
     function toggleArrayItem(arr: string[], item: string): string[] {
         return arr.includes(item) ? arr.filter((i) => i !== item) : [...arr, item];
