@@ -59,7 +59,50 @@ const KEYWORD_DICTIONARY = [
     { key: 'star', labelAz: 'Ulduz', tokens: ['star', 'ulduz', 'звезда'] },
     { key: 'bat', labelAz: 'Yarasa', tokens: ['bat', 'yarasa'] },
     { key: 'viking', labelAz: 'Vikinq', tokens: ['viking', 'vikinq', 'викинг', 'руны'] },
+    { key: 'pentagram', labelAz: 'Pentaqram', tokens: ['pentagram', 'pentacle', 'пентаграмм'] },
+    { key: 'pharaoh', labelAz: 'Firon', tokens: ['pharaoh', 'фараон'] },
+    { key: 'eye', labelAz: 'Göz', tokens: ['eye', 'глаз', 'гора'] },
+    { key: 'mary', labelAz: 'Məryəm', tokens: ['mary', 'девы марии', 'мария'] },
+    { key: 'jesus', labelAz: 'İsa', tokens: ['jesus', 'иисус', 'inri'] },
+    { key: 'angel', labelAz: 'Mələk', tokens: ['angel', 'archangel', 'ангел', 'архангел'] },
+    { key: 'devil', labelAz: 'İblis', tokens: ['devil', 'satan', 'demon', 'дьявол', 'сатана', 'демон'] },
+    { key: 'celtic', labelAz: 'Kelt', tokens: ['celtic', 'кельт'] },
+    { key: 'anchor', labelAz: 'Lövbər', tokens: ['anchor', 'якорь'] },
+    { key: 'compass', labelAz: 'Kompas', tokens: ['compass', 'компас'] },
+    { key: 'axe', labelAz: 'Balta', tokens: ['axe', 'balta'] },
+    { key: 'rune', labelAz: 'Runa', tokens: ['rune', 'runes', 'runa', 'руны', 'руна'] },
+    { key: 'amulet', labelAz: 'Amulet', tokens: ['amulet', 'lucky', 'амулет'] },
     { key: 'gothic', labelAz: 'Qotik', tokens: ['gothic', 'qotik', 'готик'] },
+];
+
+const ATTRIBUTE_TAG_RULES = [
+    { tag: 'paslanmaz polad', tokens: ['stainless steel', 'нержавеющей стали', 'нержавеющая сталь', '316l', 'steel'] },
+    { tag: 'qara', tokens: ['black', 'черные', 'черный', 'qara'] },
+    { tag: 'gümüşü', tokens: ['silver', 'серебро', 'серебрист'] },
+    { tag: 'qızılı', tokens: ['gold', 'golden', 'золот'] },
+    { tag: 'dəri', tokens: ['leather', 'кожа', 'кожан'] },
+    { tag: 'titan', tokens: ['titanium', 'titan', 'титан'] },
+    { tag: 'pank', tokens: ['punk', 'панк'] },
+    { tag: 'rok', tokens: ['rock', 'рок'] },
+    { tag: 'retro', tokens: ['retro', 'ретро'] },
+    { tag: 'vintage', tokens: ['vintage', 'винтаж'] },
+    { tag: 'bayker', tokens: ['biker', 'motorcycle', 'байкер', 'мотоцикл'] },
+    { tag: 'hip hop', tokens: ['hip hop', 'хип хоп', 'рэп', 'rap'] },
+    { tag: 'hədiyyə', tokens: ['gift', 'gifts', 'подарок', 'подарки'] },
+    { tag: 'kişi', tokens: ['men', 'man', 'male', 'мужские', 'мужское', 'мужчин', 'мужской', 'мужская', 'парня', 'бойфренда'] },
+    { tag: 'qadın', tokens: ['women', 'woman', 'female', 'женские', 'женщин', 'женский', 'женская'] },
+    { tag: 'unisex', tokens: ['men and women', 'мужские и женские', 'унисекс'] },
+    { tag: 'asqı', tokens: ['pendant', 'подвеска', 'подвески', 'подвеской', 'кулон'] },
+    { tag: 'zəncir', tokens: ['chain', 'necklace chain', 'цепочка', 'цепь'] },
+    { tag: 'misir', tokens: ['egyptian', 'египет'] },
+    { tag: 'pirat', tokens: ['pirate', 'пират'] },
+    { tag: 'düyün', tokens: ['knot', 'узел', 'узлом'] },
+    { tag: 'ölüm mələyi', tokens: ['grim reaper'] },
+    { tag: 'qanad', tokens: ['wing', 'wings', 'крылья'] },
+    { tag: 'rəqəm', tokens: ['number', 'date number', 'номер', 'число'] },
+    { tag: 'fırlanan', tokens: ['spin', 'spinner', 'fidget', 'вращ'] },
+    { tag: 'sadə', tokens: ['simple', 'простые'] },
+    { tag: 'daşlı', tokens: ['stone', 'stones', 'камнями', 'драгоценными'] },
 ];
 
 const AZ_CHAR_MAP = {
@@ -126,12 +169,27 @@ function inferCategory(folderName) {
     return CATEGORIES.find((category) => folderName.toLowerCase().startsWith(category.sourcePrefix));
 }
 
+function normalizeTextForMatch(input) {
+    const transliterated = Array.from(input)
+        .map((char) => AZ_CHAR_MAP[char] ?? char)
+        .join('');
+
+    return transliterated
+        .normalize('NFD')
+        .replace(/\p{Diacritic}/gu, '')
+        .toLowerCase();
+}
+
+function textMatchesAny(normalizedText, tokens) {
+    return tokens.some((token) => normalizedText.includes(normalizeTextForMatch(token)));
+}
+
 function inferKeywordKeys(hintText) {
-    const normalized = hintText.toLowerCase();
+    const normalized = normalizeTextForMatch(hintText);
     const found = [];
 
     for (const keyword of KEYWORD_DICTIONARY) {
-        if (keyword.tokens.some((token) => normalized.includes(token))) {
+        if (textMatchesAny(normalized, keyword.tokens)) {
             found.push(keyword.key);
         }
     }
@@ -141,6 +199,33 @@ function inferKeywordKeys(hintText) {
 
 function keywordLabelAz(keywordKey) {
     return KEYWORD_DICTIONARY.find((item) => item.key === keywordKey)?.labelAz;
+}
+
+function toTagLabel(value) {
+    return value.toLocaleLowerCase('az-AZ');
+}
+
+function buildProductTags(category, keywordKeys, hintText) {
+    const normalized = normalizeTextForMatch(hintText);
+    const baseTags = category.key === 'uzukler'
+        ? ['qotik', 'aksesuar', 'üzük', 'metal']
+        : ['qotik', 'aksesuar', 'boyunbağı', 'asqı', 'metal'];
+    const tags = [...baseTags];
+
+    for (const keywordKey of keywordKeys) {
+        const label = keywordLabelAz(keywordKey);
+        if (label) {
+            tags.push(toTagLabel(label));
+        }
+    }
+
+    for (const rule of ATTRIBUTE_TAG_RULES) {
+        if (textMatchesAny(normalized, rule.tokens)) {
+            tags.push(rule.tag);
+        }
+    }
+
+    return [...new Set(tags)];
 }
 
 function parseCsv(content) {
@@ -494,7 +579,7 @@ function buildProducts(selectedFolders, productsByFolder) {
             name: buildProductName(folder.category, keywordKeys, folder.name),
             priceAZN: folder.category.priceAZN,
             category: folder.category.label,
-            tags: ['qotik', ...keywordKeys.filter((key) => key !== 'gothic')],
+            tags: buildProductTags(folder.category, keywordKeys, hintText),
             materials: ['Metal'],
             descriptionShort: folder.category.descriptionShort,
             descriptionLong: folder.category.descriptionLong,

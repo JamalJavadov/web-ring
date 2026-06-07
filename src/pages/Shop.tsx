@@ -15,8 +15,8 @@ import { useToast } from '@/components/ui/Toast';
 type SortOption = 'newest' | 'price-asc' | 'price-desc';
 
 const allCategories = [...new Set(products.map((p) => p.category))];
-const allTags = [...new Set(products.flatMap((p) => p.tags))];
-const allMaterials = [...new Set(products.flatMap((p) => p.materials))];
+const allTags = [...new Set(products.flatMap((p) => p.tags))].sort((left, right) => left.localeCompare(right, 'az'));
+const allMaterials = [...new Set(products.flatMap((p) => p.materials))].sort((left, right) => left.localeCompare(right, 'az'));
 
 const PRICE_MIN = 0;
 const PRICE_MAX = products.length > 0 ? Math.ceil(Math.max(...products.map((p) => p.priceAZN))) : 0;

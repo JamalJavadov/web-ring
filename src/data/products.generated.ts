@@ -33,7 +33,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "snake"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "ilan",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -56,7 +60,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "rəqəm"
         ],
         "materials": [
             "Metal"
@@ -75,11 +84,16 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring3",
         "slug": "ring3",
-        "name": "Gothic Üzük — Qara Metal #03",
+        "name": "Gothic Üzük — Pentaqram #03",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "pentaqram",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -103,7 +117,17 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "dragon"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "əjdaha",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "retro",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -127,8 +151,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "wolf",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "canavar",
+            "vikinq",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -151,7 +179,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "pank"
         ],
         "materials": [
             "Metal"
@@ -175,7 +208,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "pirat"
         ],
         "materials": [
             "Metal"
@@ -198,7 +236,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "retro"
         ],
         "materials": [
             "Metal"
@@ -221,7 +264,14 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi",
+            "qadın",
+            "unisex"
         ],
         "materials": [
             "Metal"
@@ -245,7 +295,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -264,11 +318,24 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring11",
         "slug": "ring11",
-        "name": "Gothic Üzük — Qara Metal #11",
+        "name": "Gothic Üzük — Firon #11",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "firon",
+            "göz",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "retro",
+            "hədiyyə",
+            "kişi",
+            "qadın",
+            "misir"
         ],
         "materials": [
             "Metal"
@@ -292,7 +359,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -316,7 +387,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "vikinq",
+            "runa",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -335,11 +411,17 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring14",
         "slug": "ring14",
-        "name": "Gothic Üzük — Qara Metal #14",
+        "name": "Gothic Üzük — Amulet #14",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "amulet",
+            "paslanmaz polad",
+            "fırlanan"
         ],
         "materials": [
             "Metal"
@@ -362,7 +444,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "qara"
         ],
         "materials": [
             "Metal"
@@ -385,7 +472,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -409,7 +500,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -432,7 +527,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -451,11 +550,17 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring19",
         "slug": "ring19",
-        "name": "Gothic Üzük — Qara Metal #19",
+        "name": "Gothic Üzük — Amulet #19",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "amulet",
+            "paslanmaz polad",
+            "rəqəm"
         ],
         "materials": [
             "Metal"
@@ -478,7 +583,14 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi",
+            "qadın",
+            "unisex"
         ],
         "materials": [
             "Metal"
@@ -501,7 +613,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -524,7 +640,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -548,7 +668,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "dragon"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "əjdaha",
+            "paslanmaz polad",
+            "qara"
         ],
         "materials": [
             "Metal"
@@ -572,7 +697,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -596,7 +725,18 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "retro",
+            "hədiyyə",
+            "kişi",
+            "qadın",
+            "ölüm mələyi"
         ],
         "materials": [
             "Metal"
@@ -620,7 +760,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -643,7 +788,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -667,7 +816,18 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "qara",
+            "pank",
+            "rok",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -690,7 +850,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -713,7 +877,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -736,7 +904,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -760,7 +932,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "dragon"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "əjdaha",
+            "paslanmaz polad",
+            "fırlanan"
         ],
         "materials": [
             "Metal"
@@ -783,7 +960,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -806,7 +987,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -830,7 +1015,13 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "vikinq",
+            "runa",
+            "paslanmaz polad",
+            "vintage"
         ],
         "materials": [
             "Metal"
@@ -854,8 +1045,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "wolf",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "canavar",
+            "vikinq",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -878,7 +1073,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -901,7 +1100,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -924,7 +1127,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -943,11 +1150,16 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring43",
         "slug": "ring43",
-        "name": "Gothic Üzük — Qara Metal #43",
+        "name": "Gothic Üzük — Firon #43",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "firon",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -971,7 +1183,18 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın",
+            "pirat"
         ],
         "materials": [
             "Metal"
@@ -995,7 +1218,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1018,7 +1245,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1042,7 +1273,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "star"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "ulduz",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1065,7 +1300,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1088,7 +1327,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1111,7 +1354,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1135,7 +1382,18 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "qara",
+            "pank",
+            "rok",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -1154,11 +1412,17 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring55",
         "slug": "ring55",
-        "name": "Gothic Üzük — Qara Metal #55",
+        "name": "Gothic Üzük — Kelt #55",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kelt",
+            "paslanmaz polad",
+            "düyün"
         ],
         "materials": [
             "Metal"
@@ -1181,7 +1445,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1200,11 +1468,17 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring57",
         "slug": "ring57",
-        "name": "Gothic Üzük — Qara Metal #57",
+        "name": "Gothic Üzük — Kelt #57",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kelt",
+            "kompas",
+            "düyün"
         ],
         "materials": [
             "Metal"
@@ -1228,7 +1502,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "snake"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "ilan",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1252,7 +1530,13 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "vikinq",
+            "kelt",
+            "paslanmaz polad",
+            "düyün"
         ],
         "materials": [
             "Metal"
@@ -1275,7 +1559,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1294,11 +1582,16 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring61",
         "slug": "ring61",
-        "name": "Gothic Üzük — Qara Metal #61",
+        "name": "Gothic Üzük — Göz #61",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "göz",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1317,11 +1610,17 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring62",
         "slug": "ring62",
-        "name": "Gothic Üzük — Qara Metal #62",
+        "name": "Gothic Üzük — Göz #62",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "göz",
+            "iblis",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1345,8 +1644,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "wolf",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "canavar",
+            "vikinq",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1369,7 +1672,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1393,7 +1700,17 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -1416,7 +1733,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1439,7 +1760,14 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi",
+            "qadın",
+            "unisex"
         ],
         "materials": [
             "Metal"
@@ -1462,7 +1790,10 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal"
         ],
         "materials": [
             "Metal"
@@ -1485,7 +1816,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1509,7 +1844,19 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "mələk",
+            "iblis",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -1532,7 +1879,15 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "retro",
+            "kişi",
+            "qadın",
+            "unisex"
         ],
         "materials": [
             "Metal"
@@ -1555,7 +1910,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1578,7 +1937,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1601,7 +1964,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -1624,7 +1992,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1647,7 +2019,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1671,7 +2047,17 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "qara",
+            "pank",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -1694,7 +2080,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1718,7 +2108,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1741,7 +2135,16 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "kişi",
+            "qadın",
+            "unisex"
         ],
         "materials": [
             "Metal"
@@ -1760,11 +2163,17 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring87",
         "slug": "ring87",
-        "name": "Gothic Üzük — Qara Metal #87",
+        "name": "Gothic Üzük — Kelt #87",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kelt",
+            "kişi",
+            "düyün"
         ],
         "materials": [
             "Metal"
@@ -1788,7 +2197,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1811,7 +2224,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1835,7 +2252,10 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "dragon"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "əjdaha"
         ],
         "materials": [
             "Metal"
@@ -1858,7 +2278,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1882,8 +2306,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull",
-            "wolf"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "canavar"
         ],
         "materials": [
             "Metal"
@@ -1906,7 +2333,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1929,7 +2360,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1952,7 +2387,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -1975,7 +2414,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "retro"
         ],
         "materials": [
             "Metal"
@@ -1998,7 +2442,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2021,7 +2469,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "pank",
+            "rok"
         ],
         "materials": [
             "Metal"
@@ -2044,7 +2498,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2067,7 +2525,18 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "hədiyyə",
+            "kişi",
+            "qadın",
+            "sadə",
+            "daşlı"
         ],
         "materials": [
             "Metal"
@@ -2090,7 +2559,17 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "qara",
+            "pank",
+            "rok",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -2113,7 +2592,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2136,7 +2619,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2160,7 +2647,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "xaç",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2184,7 +2675,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "snake"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "ilan",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2208,7 +2703,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "vikinq",
+            "runa",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2227,11 +2727,17 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring116",
         "slug": "ring116",
-        "name": "Gothic Üzük — Qara Metal #116",
+        "name": "Gothic Üzük — Kelt #116",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kelt",
+            "paslanmaz polad",
+            "düyün"
         ],
         "materials": [
             "Metal"
@@ -2255,7 +2761,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "xaç",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2278,7 +2788,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2301,7 +2815,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2320,11 +2839,17 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring122",
         "slug": "ring122",
-        "name": "Gothic Üzük — Qara Metal #122",
+        "name": "Gothic Üzük — Göz #122",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "göz",
+            "paslanmaz polad",
+            "misir"
         ],
         "materials": [
             "Metal"
@@ -2347,7 +2872,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "pank",
+            "rok"
         ],
         "materials": [
             "Metal"
@@ -2370,7 +2901,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2393,7 +2928,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2416,7 +2955,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "pank",
+            "rok",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2439,7 +2984,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2463,7 +3012,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2486,7 +3039,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "vintage",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2509,7 +3068,10 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal"
         ],
         "materials": [
             "Metal"
@@ -2533,7 +3095,13 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "pank",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2556,7 +3124,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2579,7 +3152,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2598,11 +3175,17 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring139",
         "slug": "ring139",
-        "name": "Gothic Üzük — Qara Metal #139",
+        "name": "Gothic Üzük — Kelt #139",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kelt",
+            "vintage",
+            "düyün"
         ],
         "materials": [
             "Metal"
@@ -2625,7 +3208,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2649,7 +3237,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2673,7 +3266,17 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "iblis",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "bayker",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2697,7 +3300,18 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "retro",
+            "bayker",
+            "hədiyyə",
+            "kişi",
+            "sadə"
         ],
         "materials": [
             "Metal"
@@ -2721,7 +3335,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "wolf"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "canavar",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2744,7 +3363,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2767,7 +3390,17 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "rok",
+            "retro",
+            "bayker",
+            "hədiyyə",
+            "kişi",
+            "sadə"
         ],
         "materials": [
             "Metal"
@@ -2791,7 +3424,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "snake"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "ilan",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2815,7 +3452,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2838,7 +3479,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2862,7 +3508,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "star"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "ulduz",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2885,7 +3536,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2909,7 +3564,15 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "xaç",
+            "amulet",
+            "paslanmaz polad",
+            "rok",
+            "bayker",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2932,7 +3595,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -2955,7 +3623,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -2978,7 +3650,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3002,7 +3679,16 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "dragon"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "əjdaha",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "retro",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3025,7 +3711,16 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "hip hop",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3048,7 +3743,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3067,11 +3767,16 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring159",
         "slug": "ring159",
-        "name": "Gothic Üzük — Qara Metal #159",
+        "name": "Gothic Üzük — Amulet #159",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "amulet",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3095,7 +3800,14 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "rok",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3118,7 +3830,18 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "rok",
+            "retro",
+            "hədiyyə",
+            "kişi",
+            "qadın",
+            "unisex",
+            "sadə"
         ],
         "materials": [
             "Metal"
@@ -3142,7 +3865,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3165,7 +3892,15 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "rok",
+            "hədiyyə",
+            "kişi",
+            "sadə"
         ],
         "materials": [
             "Metal"
@@ -3189,8 +3924,13 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "raven",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "qarğa",
+            "vikinq",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3213,7 +3953,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3236,7 +3980,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3259,7 +4007,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3282,7 +4035,17 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "retro",
+            "bayker",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3301,11 +4064,18 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring170",
         "slug": "ring170",
-        "name": "Gothic Üzük — Qara Metal #170",
+        "name": "Gothic Üzük — Kelt #170",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kelt",
+            "paslanmaz polad",
+            "kişi",
+            "düyün"
         ],
         "materials": [
             "Metal"
@@ -3329,7 +4099,13 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "iblis",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3352,7 +4128,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3375,7 +4156,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3398,7 +4183,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3417,11 +4206,16 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring175",
         "slug": "ring175",
-        "name": "Gothic Üzük — Qara Metal #175",
+        "name": "Gothic Üzük — Kompas #175",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kompas",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3445,7 +4239,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3468,7 +4266,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3492,7 +4294,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3516,7 +4323,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "vikinq",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3540,7 +4352,16 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "rok",
+            "retro",
+            "bayker",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3564,7 +4385,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "raven"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "qarğa",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3588,7 +4414,13 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "retro",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3611,7 +4443,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3635,7 +4471,15 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "rok",
+            "bayker",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3658,7 +4502,14 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "rok",
+            "hədiyyə",
+            "kişi",
+            "sadə"
         ],
         "materials": [
             "Metal"
@@ -3681,7 +4532,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3705,7 +4560,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3729,7 +4589,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3752,7 +4617,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3776,7 +4646,11 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "vikinq",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3799,7 +4673,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3822,7 +4701,18 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "retro",
+            "bayker",
+            "hədiyyə",
+            "kişi",
+            "ölüm mələyi"
         ],
         "materials": [
             "Metal"
@@ -3845,7 +4735,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3864,11 +4758,17 @@ export const products: Product[] = [
     {
         "id": "uzukler_ring194",
         "slug": "ring194",
-        "name": "Gothic Üzük — Qara Metal #194",
+        "name": "Gothic Üzük — Göz #194",
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "göz",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3892,7 +4792,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3915,7 +4820,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3938,7 +4847,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -3961,7 +4875,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -3984,7 +4902,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4007,7 +4930,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4030,7 +4957,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4053,7 +4985,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4076,7 +5013,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4100,7 +5041,13 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "vintage",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4124,7 +5071,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4148,7 +5100,12 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4171,7 +5128,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4194,7 +5155,11 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4217,7 +5182,13 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "qara",
+            "retro"
         ],
         "materials": [
             "Metal"
@@ -4241,7 +5212,16 @@ export const products: Product[] = [
         "category": "Üzüklər",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "üzük",
+            "metal",
+            "vikinq",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "hədiyyə",
+            "kişi",
+            "fırlanan"
         ],
         "materials": [
             "Metal"
@@ -4264,7 +5244,12 @@ export const products: Product[] = [
         "priceAZN": 13,
         "category": "Üzüklər",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "üzük",
+            "metal",
+            "paslanmaz polad",
+            "retro"
         ],
         "materials": [
             "Metal"
@@ -4283,11 +5268,18 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace1",
         "slug": "necklace1",
-        "name": "Gothic Boyunbağı — Metal Zəncir #01",
+        "name": "Gothic Boyunbağı — Məryəm #01",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "məryəm",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4311,8 +5303,18 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "skull",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "kəllə",
+            "zəncir",
+            "paslanmaz polad",
+            "bayker",
+            "hədiyyə",
+            "kişi",
+            "qadın",
+            "qanad"
         ],
         "materials": [
             "Metal"
@@ -4336,7 +5338,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4360,7 +5367,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "isa",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4384,8 +5397,17 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "zəncir",
+            "isa",
+            "amulet",
+            "paslanmaz polad",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -4409,7 +5431,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "bayker"
         ],
         "materials": [
             "Metal"
@@ -4432,7 +5459,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4456,7 +5489,17 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "amulet",
+            "paslanmaz polad",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -4479,7 +5522,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4502,7 +5551,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4526,7 +5580,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4550,7 +5609,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4574,7 +5638,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4598,7 +5667,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4617,11 +5691,17 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace16",
         "slug": "necklace16",
-        "name": "Gothic Boyunbağı — Metal Zəncir #16",
+        "name": "Gothic Boyunbağı — İsa #16",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "isa",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4644,7 +5724,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4668,7 +5754,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4692,7 +5783,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4711,11 +5807,18 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace20",
         "slug": "necklace20",
-        "name": "Gothic Boyunbağı — Metal Zəncir #20",
+        "name": "Gothic Boyunbağı — Göz #20",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "göz",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4739,7 +5842,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4762,7 +5870,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4785,7 +5898,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4808,7 +5927,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4832,7 +5957,19 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "mələk",
+            "iblis",
+            "amulet",
+            "paslanmaz polad",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -4851,11 +5988,18 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace27",
         "slug": "necklace27",
-        "name": "Gothic Boyunbağı — Metal Zəncir #27",
+        "name": "Gothic Boyunbağı — İblis #27",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "iblis",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4879,8 +6023,17 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "dragon",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "əjdaha",
+            "zəncir",
+            "amulet",
+            "paslanmaz polad",
+            "vintage",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -4903,7 +6056,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4927,7 +6085,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -4950,7 +6114,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4969,11 +6138,17 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace34",
         "slug": "necklace34",
-        "name": "Gothic Boyunbağı — Metal Zəncir #34",
+        "name": "Gothic Boyunbağı — Lövbər #34",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "lövbər",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -4997,7 +6172,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5020,7 +6200,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5043,7 +6229,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5066,7 +6258,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5090,7 +6288,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "mələk",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5113,7 +6317,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5137,7 +6346,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5161,7 +6375,18 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "məryəm",
+            "amulet",
+            "paslanmaz polad",
+            "rok",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -5184,7 +6409,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5203,11 +6433,17 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace47",
         "slug": "necklace47",
-        "name": "Gothic Boyunbağı — Metal Zəncir #47",
+        "name": "Gothic Boyunbağı — Göz #47",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "göz",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5226,11 +6462,18 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace49",
         "slug": "necklace49",
-        "name": "Gothic Boyunbağı — Metal Zəncir #49",
+        "name": "Gothic Boyunbağı — Mələk #49",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "mələk",
+            "paslanmaz polad",
+            "qanad"
         ],
         "materials": [
             "Metal"
@@ -5253,7 +6496,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5272,11 +6520,18 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace51",
         "slug": "necklace51",
-        "name": "Gothic Boyunbağı — Metal Zəncir #51",
+        "name": "Gothic Boyunbağı — Mələk #51",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "mələk",
+            "paslanmaz polad",
+            "qanad"
         ],
         "materials": [
             "Metal"
@@ -5299,7 +6554,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5318,11 +6578,17 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace53",
         "slug": "necklace53",
-        "name": "Gothic Boyunbağı — Metal Zəncir #53",
+        "name": "Gothic Boyunbağı — İblis #53",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "iblis",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5345,7 +6611,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5369,7 +6641,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "star"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "ulduz",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5393,7 +6670,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "rose"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "gül",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5417,7 +6699,17 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "amulet",
+            "paslanmaz polad",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -5441,8 +6733,18 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "snake",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "ilan",
+            "zəncir",
+            "amulet",
+            "paslanmaz polad",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -5465,7 +6767,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5489,7 +6796,15 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "rok",
+            "hip hop",
+            "hədiyyə"
         ],
         "materials": [
             "Metal"
@@ -5513,7 +6828,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "dragon"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "əjdaha",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5536,7 +6857,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "pank"
         ],
         "materials": [
             "Metal"
@@ -5560,7 +6887,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5583,7 +6915,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5606,7 +6944,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5625,11 +6969,18 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace66",
         "slug": "necklace66",
-        "name": "Gothic Boyunbağı — Metal Zəncir #66",
+        "name": "Gothic Boyunbağı — Kompas #66",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "kompas",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5653,8 +7004,14 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "skull",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "kəllə",
+            "zəncir",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5678,7 +7035,14 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "isa",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5701,7 +7065,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5724,7 +7094,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5747,7 +7122,17 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "vintage",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5770,7 +7155,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5793,7 +7184,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5816,7 +7213,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5839,7 +7241,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5862,7 +7269,14 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi",
+            "daşlı"
         ],
         "materials": [
             "Metal"
@@ -5886,7 +7300,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5910,7 +7329,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5934,7 +7359,14 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "vikinq",
+            "kompas",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -5958,7 +7390,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "iblis",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -5981,7 +7419,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6005,7 +7449,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "kəllə",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6028,7 +7477,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6051,7 +7505,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6074,7 +7534,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6098,7 +7564,18 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "bayker",
+            "hip hop",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6122,7 +7599,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6145,7 +7628,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6168,7 +7657,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6192,8 +7687,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "dragon",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "əjdaha",
+            "zəncir",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6216,7 +7716,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6239,7 +7744,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6263,7 +7774,14 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "star"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "ulduz",
+            "kompas",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6282,11 +7800,22 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace94",
         "slug": "necklace94",
-        "name": "Gothic Boyunbağı — Metal Zəncir #94",
+        "name": "Gothic Boyunbağı — İblis #94",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "iblis",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "vintage",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6310,7 +7839,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "vikinq",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6333,7 +7867,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6356,7 +7896,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6379,7 +7925,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6398,11 +7950,17 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace100",
         "slug": "necklace100",
-        "name": "Gothic Boyunbağı — Metal Zəncir #100",
+        "name": "Gothic Boyunbağı — İblis #100",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "iblis",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6426,8 +7984,20 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "skull",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "kəllə",
+            "zəncir",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "vintage",
+            "bayker",
+            "hip hop",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6450,7 +8020,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6474,7 +8049,16 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6498,7 +8082,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "vikinq",
+            "balta",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6522,7 +8112,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6545,7 +8141,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6569,7 +8171,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6592,7 +8200,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6615,7 +8229,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6639,8 +8258,15 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain",
-            "star"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "ulduz",
+            "paslanmaz polad",
+            "pank",
+            "rok"
         ],
         "materials": [
             "Metal"
@@ -6663,7 +8289,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6687,8 +8319,14 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross",
-            "skull"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6712,7 +8350,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "dragon"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "əjdaha",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6736,7 +8379,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6760,7 +8408,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6783,7 +8437,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6807,7 +8466,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "vikinq",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6830,7 +8495,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6854,7 +8525,14 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "vikinq",
+            "balta",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6878,7 +8556,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6901,7 +8584,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "retro"
         ],
         "materials": [
             "Metal"
@@ -6925,8 +8614,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "zəncir",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6949,7 +8643,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -6973,7 +8672,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -6997,7 +8702,16 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "hip hop",
+            "hədiyyə",
+            "kişi",
+            "sadə"
         ],
         "materials": [
             "Metal"
@@ -7016,11 +8730,17 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace126",
         "slug": "necklace126",
-        "name": "Gothic Boyunbağı — Metal Zəncir #126",
+        "name": "Gothic Boyunbağı — Mələk #126",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "mələk",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7043,7 +8763,14 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "retro",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7066,7 +8793,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7090,7 +8822,20 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "amulet",
+            "paslanmaz polad",
+            "qara",
+            "pank",
+            "rok",
+            "retro",
+            "hədiyyə",
+            "kişi",
+            "daşlı"
         ],
         "materials": [
             "Metal"
@@ -7114,8 +8859,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain",
-            "star"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "ulduz",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7138,7 +8888,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7161,7 +8917,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7180,11 +8941,17 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace133",
         "slug": "necklace133",
-        "name": "Gothic Boyunbağı — Metal Zəncir #133",
+        "name": "Gothic Boyunbağı — İsa #133",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "isa",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7208,7 +8975,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7231,7 +9004,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7254,7 +9033,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7278,7 +9062,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "vikinq",
+            "runa",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7302,7 +9092,14 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "göz",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7326,7 +9123,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "vikinq",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7350,7 +9153,15 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7374,7 +9185,19 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "retro",
+            "hip hop",
+            "hədiyyə",
+            "kişi",
+            "daşlı"
         ],
         "materials": [
             "Metal"
@@ -7398,8 +9221,18 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain",
-            "viking"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "vikinq",
+            "balta",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7423,7 +9256,16 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "rok",
+            "retro",
+            "bayker",
+            "hədiyyə"
         ],
         "materials": [
             "Metal"
@@ -7446,7 +9288,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "pank",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7465,11 +9313,18 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace147",
         "slug": "necklace147",
-        "name": "Gothic Boyunbağı — Metal Zəncir #147",
+        "name": "Gothic Boyunbağı — Mələk #147",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "mələk",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7492,7 +9347,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7516,7 +9376,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7540,7 +9406,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7564,7 +9436,16 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7588,7 +9469,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "star"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "ulduz",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7612,9 +9498,20 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "dragon",
-            "chain",
-            "viking"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "əjdaha",
+            "zəncir",
+            "vikinq",
+            "runa",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "bayker",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7633,11 +9530,16 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace154",
         "slug": "necklace154",
-        "name": "Gothic Boyunbağı — Metal Zəncir #154",
+        "name": "Gothic Boyunbağı — Göz #154",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "göz"
         ],
         "materials": [
             "Metal"
@@ -7661,7 +9563,12 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7684,7 +9591,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7707,7 +9619,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7731,7 +9649,17 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "bayker",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7755,8 +9683,19 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "skull",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "kəllə",
+            "zəncir",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "bayker",
+            "hip hop",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7775,11 +9714,17 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace160",
         "slug": "necklace160",
-        "name": "Gothic Boyunbağı — Metal Zəncir #160",
+        "name": "Gothic Boyunbağı — Mələk #160",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "mələk",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7803,7 +9748,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7826,7 +9777,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7845,11 +9802,19 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace163",
         "slug": "necklace163",
-        "name": "Gothic Boyunbağı — Metal Zəncir #163",
+        "name": "Gothic Boyunbağı — Mələk #163",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "mələk",
+            "paslanmaz polad",
+            "kişi",
+            "qanad"
         ],
         "materials": [
             "Metal"
@@ -7872,7 +9837,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7895,7 +9866,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -7919,7 +9895,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "skull"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "kəllə",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7942,7 +9924,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7966,7 +9954,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -7989,7 +9983,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -8013,7 +10012,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8036,7 +10041,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8055,11 +10066,18 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace172",
         "slug": "necklace172",
-        "name": "Gothic Boyunbağı — Metal Zəncir #172",
+        "name": "Gothic Boyunbağı — Məryəm #172",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "məryəm",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8083,7 +10101,14 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "viking"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "vikinq",
+            "balta",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8106,7 +10131,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -8125,11 +10155,17 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace175",
         "slug": "necklace175",
-        "name": "Gothic Boyunbağı — Metal Zəncir #175",
+        "name": "Gothic Boyunbağı — İsa #175",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "isa",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -8153,7 +10189,18 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "vintage",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -8177,7 +10224,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "misir"
         ],
         "materials": [
             "Metal"
@@ -8201,7 +10254,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8225,7 +10284,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8249,7 +10314,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8268,11 +10339,18 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace181",
         "slug": "necklace181",
-        "name": "Gothic Boyunbağı — Metal Zəncir #181",
+        "name": "Gothic Boyunbağı — İsa #181",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "isa",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8296,7 +10374,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8320,7 +10404,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8344,7 +10434,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "mələk",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -8363,11 +10459,17 @@ export const products: Product[] = [
     {
         "id": "sepler_necklace185",
         "slug": "necklace185",
-        "name": "Gothic Boyunbağı — Metal Zəncir #185",
+        "name": "Gothic Boyunbağı — İsa #185",
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "isa",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -8391,7 +10493,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8415,7 +10523,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "qızılı"
         ],
         "materials": [
             "Metal"
@@ -8439,9 +10553,20 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross",
-            "skull",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "kəllə",
+            "zəncir",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "vintage",
+            "bayker",
+            "hədiyyə",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8465,7 +10590,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8489,7 +10620,14 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "isa",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8513,7 +10651,13 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "cross"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "xaç",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8537,7 +10681,19 @@ export const products: Product[] = [
         "category": "Boyunbağı",
         "tags": [
             "qotik",
-            "chain"
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "zəncir",
+            "mələk",
+            "amulet",
+            "paslanmaz polad",
+            "pank",
+            "rok",
+            "hədiyyə",
+            "kişi",
+            "qadın"
         ],
         "materials": [
             "Metal"
@@ -8560,7 +10716,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8583,7 +10745,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"
@@ -8606,7 +10773,13 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad",
+            "kişi"
         ],
         "materials": [
             "Metal"
@@ -8629,7 +10802,12 @@ export const products: Product[] = [
         "priceAZN": 15,
         "category": "Boyunbağı",
         "tags": [
-            "qotik"
+            "qotik",
+            "aksesuar",
+            "boyunbağı",
+            "asqı",
+            "metal",
+            "paslanmaz polad"
         ],
         "materials": [
             "Metal"

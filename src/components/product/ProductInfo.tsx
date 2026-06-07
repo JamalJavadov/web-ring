@@ -46,6 +46,19 @@ export function ProductInfo({ product, selectedVariants, onVariantChange }: Prod
                 {product.descriptionShort}
             </p>
 
+            {product.tags.length > 0 && (
+                <div className="flex flex-wrap gap-2">
+                    {product.tags.map((tag) => (
+                        <span
+                            key={tag}
+                            className="border border-[var(--border)] px-2.5 py-1 text-[11px] uppercase tracking-wider text-[var(--muted)]"
+                        >
+                            {tag}
+                        </span>
+                    ))}
+                </div>
+            )}
+
             {product.variants && product.variants.length > 0 && (
                 <div className="space-y-4 pt-2">
                     {product.variants.map((variant) => (
