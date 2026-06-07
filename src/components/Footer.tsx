@@ -31,7 +31,7 @@ export function Footer() {
                             {BRAND_NAME}
                         </Link>
                         <p className="text-sm text-[var(--muted)] mt-4 leading-relaxed max-w-sm">
-                            Premium qotik üslubda üzüklər və seplər. Mobil yönümlü alış təcrübəsi və sürətli sifariş üçün WhatsApp xəttimiz aktivdir.
+                            Premium qotik üslubda üzüklər və boyunbağılar. Mobil yönümlü alış təcrübəsi və sürətli sifariş üçün WhatsApp xəttimiz aktivdir.
                         </p>
                     </div>
 

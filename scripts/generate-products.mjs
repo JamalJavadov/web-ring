@@ -34,13 +34,13 @@ const CATEGORIES = [
     {
         sourcePrefix: 'necklace',
         key: 'sepler',
-        label: 'seplər',
+        label: 'Boyunbağı',
         priceAZN: 15,
-        namePrefix: 'Gothic Sepə — ',
+        namePrefix: 'Gothic Boyunbağı — ',
         fallbackName: 'Metal Zəncir',
-        descriptionShort: 'Premium qotik üslubda hazırlanmış sepə.',
+        descriptionShort: 'Premium qotik üslubda hazırlanmış boyunbağı.',
         descriptionLong:
-            'RingForBaku kolleksiyasının bu qotik sepəsi qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.',
+            'RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.',
     },
 ];
 
@@ -521,7 +521,7 @@ export type Product = {
     name: string;
     priceAZN: number;
     oldPriceAZN?: number;
-    category: 'Üzüklər' | 'seplər';
+    category: 'Üzüklər' | 'Boyunbağı';
     tags: string[];
     materials: string[];
     descriptionShort: string;

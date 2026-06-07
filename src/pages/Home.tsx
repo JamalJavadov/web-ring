@@ -8,7 +8,7 @@ import { BRAND_NAME } from '@/lib/brand';
 export function Home() {
     usePageMeta({
         title: BRAND_NAME,
-        description: 'RingForBaku premium qotik üzüklər və seplər üçün mobil yönümlü alış təcrübəsi təqdim edir.',
+        description: 'RingForBaku premium qotik üzüklər və boyunbağılar üçün mobil yönümlü alış təcrübəsi təqdim edir.',
     });
 
     return (

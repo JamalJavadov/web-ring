@@ -10,7 +10,7 @@ const collections = [
         basePrice: 13,
     },
     {
-        category: 'seplər',
+        category: 'Boyunbağı',
         subtitle: 'Qotik zəncir və simvolik asqı dizaynları',
         href: '/shop',
         basePrice: 15,

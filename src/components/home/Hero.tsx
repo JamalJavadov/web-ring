@@ -18,7 +18,7 @@ export function Hero() {
                 </h1>
 
                 <p className="text-[var(--muted)] text-base sm:text-lg max-w-md mb-10 leading-relaxed">
-                    Üslubunuzu qaranlığın zərifliyi ilə tamamlayın. Premium metal üzüklər və seplərlə fərqlənin.
+                    Üslubunuzu qaranlığın zərifliyi ilə tamamlayın. Premium metal üzüklər və boyunbağılarla fərqlənin.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">

@@ -39,7 +39,7 @@ function sortProducts(items: Product[], sortBy: SortOption): Product[] {
 export function Shop() {
     usePageMeta({
         title: 'Mağaza',
-        description: 'RingForBaku mağazasında premium qotik üzüklər və seplər üçün filtrləmə və məhsulları sürətlə səbətə əlavə etmə imkanı.',
+        description: 'RingForBaku mağazasında premium qotik üzüklər və boyunbağılar üçün filtrləmə və məhsulları sürətlə səbətə əlavə etmə imkanı.',
     });
 
     const [search, setSearch] = useState('');
