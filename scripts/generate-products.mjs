@@ -208,8 +208,8 @@ function toTagLabel(value) {
 function buildProductTags(category, keywordKeys, hintText) {
     const normalized = normalizeTextForMatch(hintText);
     const baseTags = category.key === 'uzukler'
-        ? ['qotik', 'aksesuar', 'üzük', 'metal']
-        : ['qotik', 'aksesuar', 'boyunbağı', 'asqı', 'metal'];
+        ? ['qotik', 'aksesuar', 'metal', 'alternativ stil', 'gündəlik', 'statement', 'üzük', 'barmaq aksesuarı', 'metal üzük', 'qotik üzük']
+        : ['qotik', 'aksesuar', 'metal', 'alternativ stil', 'gündəlik', 'statement', 'boyunbağı', 'boyun aksesuarı', 'asqı', 'zəncirli', 'metal boyunbağı', 'qotik boyunbağı'];
     const tags = [...baseTags];
 
     for (const keywordKey of keywordKeys) {

@@ -9,7 +9,6 @@ import { Button } from '@/components/ui/Button';
 import { useCart } from '@/store/CartContext';
 import { usePageMeta } from '@/hooks/usePageMeta';
 import { formatPriceAZN } from '@/lib/format';
-import { normalizeSearchText } from '@/lib/search';
 import { useToast } from '@/components/ui/Toast';
 
 type SortOption = 'newest' | 'price-asc' | 'price-desc';
@@ -17,6 +16,12 @@ type SortOption = 'newest' | 'price-asc' | 'price-desc';
 const allCategories = [...new Set(products.map((p) => p.category))];
 const allTags = [...new Set(products.flatMap((p) => p.tags))].sort((left, right) => left.localeCompare(right, 'az'));
 const allMaterials = [...new Set(products.flatMap((p) => p.materials))].sort((left, right) => left.localeCompare(right, 'az'));
+const tagOptions = allTags
+    .map((tag) => ({
+        tag,
+        count: products.filter((product) => product.tags.includes(tag)).length,
+    }))
+    .sort((left, right) => right.count - left.count || left.tag.localeCompare(right.tag, 'az'));
 
 const PRICE_MIN = 0;
 const PRICE_MAX = products.length > 0 ? Math.ceil(Math.max(...products.map((p) => p.priceAZN))) : 0;
@@ -42,7 +47,6 @@ export function Shop() {
         description: 'RingForBaku mağazasında premium qotik üzüklər və boyunbağılar üçün filtrləmə və məhsulları sürətlə səbətə əlavə etmə imkanı.',
     });
 
-    const [search, setSearch] = useState('');
     const [sortBy, setSortBy] = useState<SortOption>('newest');
     const [isFilterOpen, setIsFilterOpen] = useState(false);
     const { addToCart } = useCart();
@@ -115,23 +119,12 @@ export function Shop() {
     const filteredProducts = useMemo(() => {
         let result = products;
 
-        if (search.trim()) {
-            const query = normalizeSearchText(search);
-            result = result.filter(
-                (p) =>
-                    normalizeSearchText(p.name).includes(query) ||
-                    normalizeSearchText(p.category).includes(query) ||
-                    p.tags.some((t) => normalizeSearchText(t).includes(query)) ||
-                    p.materials.some((m) => normalizeSearchText(m).includes(query))
-            );
-        }
-
         if (selectedCategories.length > 0) {
             result = result.filter((p) => selectedCategories.includes(p.category));
         }
 
         if (selectedTags.length > 0) {
-            result = result.filter((p) => p.tags.some((t) => selectedTags.includes(t)));
+            result = result.filter((p) => selectedTags.every((tag) => p.tags.includes(tag)));
         }
 
         if (selectedMaterials.length > 0) {
@@ -145,7 +138,7 @@ export function Shop() {
         result = result.filter((p) => p.priceAZN <= priceMax);
 
         return sortProducts(result, sortBy);
-    }, [search, sortBy, selectedCategories, selectedTags, selectedMaterials, onlyInStock, priceMax]);
+    }, [sortBy, selectedCategories, selectedTags, selectedMaterials, onlyInStock, priceMax]);
 
     function handleQuickAdd(product: Product) {
         let variantString: string | undefined = undefined;
@@ -169,26 +162,42 @@ export function Shop() {
                 Mağaza
             </h1>
 
-            <div className="sticky top-16 z-20 bg-[var(--bg)] border-b border-[var(--border)] -mx-4 px-4 py-3 flex items-center gap-3 mb-6">
-                <div className="relative flex-1">
-                    <svg
-                        className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--muted)]"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                        strokeWidth={1.5}
-                    >
-                        <path strokeLinecap="round" strokeLinejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
-                    </svg>
-                    <input
-                        type="text"
-                        value={search}
-                        onChange={(e) => setSearch(e.target.value)}
-                        placeholder="Axtar..."
-                        className="w-full min-h-[44px] pl-10 pr-4 bg-[var(--surface)] border border-[var(--border)] text-sm text-[var(--text)] placeholder:text-[var(--muted)] focus:outline-none focus:border-[var(--accent)] transition-colors"
-                    />
+            <section className="mb-6 border-y border-[var(--border)] py-4">
+                <div className="mb-3 flex items-center justify-between gap-3">
+                    <h2 className="text-xs uppercase tracking-[0.2em] text-[var(--muted)]">Taglar</h2>
+                    {selectedTags.length > 0 && (
+                        <button
+                            type="button"
+                            onClick={() => setSelectedTags([])}
+                            className="min-h-[36px] px-3 text-xs uppercase tracking-wider text-[var(--muted)] hover:text-white transition-colors"
+                        >
+                            Sıfırla
+                        </button>
+                    )}
                 </div>
+                <div className="flex gap-2 overflow-x-auto pb-2 md:flex-wrap md:overflow-visible md:pb-0">
+                    {tagOptions.map(({ tag, count }) => {
+                        const isSelected = selectedTags.includes(tag);
 
+                        return (
+                            <button
+                                key={tag}
+                                type="button"
+                                aria-pressed={isSelected}
+                                onClick={() => setSelectedTags(toggleArrayItem(selectedTags, tag))}
+                                className={`shrink-0 min-h-[38px] border px-3 text-xs uppercase tracking-wider transition-colors ${isSelected
+                                    ? 'border-[var(--accent)] bg-[var(--accent)] text-black'
+                                    : 'border-[var(--border)] bg-[var(--surface)] text-[var(--text)] hover:border-[var(--accent)] hover:text-white'
+                                    }`}
+                            >
+                                {tag} <span className={isSelected ? 'text-black/60' : 'text-[var(--muted)]'}>{count}</span>
+                            </button>
+                        );
+                    })}
+                </div>
+            </section>
+
+            <div className="sticky top-16 z-20 bg-[var(--bg)] border-b border-[var(--border)] -mx-4 px-4 py-3 flex items-center justify-between gap-3 mb-6">
                 <button
                     type="button"
                     onClick={() => setIsFilterOpen(true)}
@@ -234,7 +243,7 @@ export function Shop() {
                         <path strokeLinecap="round" strokeLinejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
                     </svg>
                     <h2 className="font-serif text-xl tracking-widest uppercase text-white mb-2">Məhsul tapılmadı</h2>
-                    <p className="text-sm text-[var(--muted)] max-w-xs">Filtrləri dəyişdirin və ya axtarışı yeniləyin.</p>
+                    <p className="text-sm text-[var(--muted)] max-w-xs">Seçilmiş tagləri və filtrləri dəyişdirin.</p>
                 </div>
             ) : (
                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
@@ -295,7 +304,7 @@ export function Shop() {
                     <div>
                         <h3 className="text-sm font-medium uppercase tracking-wider text-white mb-3">Etiketlər</h3>
                         <div className="flex flex-wrap gap-2">
-                            {allTags.map((tag) => (
+                            {tagOptions.map(({ tag, count }) => (
                                 <button
                                     key={tag}
                                     type="button"
@@ -305,7 +314,7 @@ export function Shop() {
                                         : 'bg-transparent text-[var(--muted)] border-[var(--border)] hover:border-[var(--accent)]'
                                         }`}
                                 >
-                                    {tag}
+                                    {tag} <span className={selectedTags.includes(tag) ? 'text-black/60' : 'text-[var(--muted)]'}>{count}</span>
                                 </button>
                             ))}
                         </div>
