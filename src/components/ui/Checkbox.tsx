@@ -9,8 +9,8 @@ export const Checkbox = forwardRef<HTMLInputElement, CheckboxProps>(
         const id = useId();
 
         return (
-            <div className={`flex items-center gap-3 min-h-[44px] ${className}`}>
-                <div className="relative flex items-center justify-center">
+            <div className={`flex items-start gap-3 min-h-[44px] ${className}`}>
+                <div className="relative flex shrink-0 items-center justify-center mt-0.5">
                     <input
                         id={id}
                         type="checkbox"
@@ -29,7 +29,7 @@ export const Checkbox = forwardRef<HTMLInputElement, CheckboxProps>(
                         <polyline points="20 6 9 17 4 12"></polyline>
                     </svg>
                 </div>
-                <label htmlFor={id} className="text-sm font-medium text-text cursor-pointer select-none">
+                <label htmlFor={id} className="min-w-0 text-sm font-medium leading-5 text-text cursor-pointer select-none break-words">
                     {label}
                 </label>
             </div>

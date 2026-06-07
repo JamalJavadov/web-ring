@@ -52,15 +52,15 @@ const faqData: FaqCategory[] = [
         items: [
             {
                 question: 'Hansı materiallardan istifadə edirsiniz?',
-                answer: 'Əsas materiallarımız 925 əyarlı gümüş, paslanmayan polad (316L), təbii daşlar (obsidian, oniks, əqiq) və premium dəridir.',
+                answer: 'Bütün məhsullarımız yüksək keyfiyyətli 316L STAINLESS STEEL materialdan hazırlanır.',
             },
             {
                 question: 'Məhsullar allergiyaya səbəb olurmu?',
-                answer: 'Paslanmayan polad və 925 gümüş hipoallergen materiallardır. Nikələ qarşı həssaslığınız varsa, bizimlə əlaqə saxlayın — sizə uyğun variant təklif edək.',
+                answer: '316L STAINLESS STEEL gündəlik istifadə üçün rahat və dəri ilə təmasa uyğun materialdır. Xüsusi həssaslığınız varsa, sifarişdən əvvəl bizimlə əlaqə saxlayın.',
             },
             {
                 question: 'Rəng dəyişikliyi olurmu?',
-                answer: 'Gümüş zamanla oksidləşə bilər — bu, təbii prosesdir. Cilalama dəsmalı ilə asanlıqla təmizlənir. Paslanmayan polad rəng dəyişikliyinə davamlıdır.',
+                answer: '316L STAINLESS STEEL rəng dəyişikliyinə davamlıdır və düzgün istifadə ilə uzun illər boyu formasını qoruyur.',
             },
         ],
     },
@@ -69,11 +69,11 @@ const faqData: FaqCategory[] = [
         items: [
             {
                 question: 'Aksessuarlarıma necə qulluq edim?',
-                answer: 'Ətir, krem və kimyəvi maddələrlə təmasdan çəkinin. İstifadədən sonra yumşaq parça ilə silin və quru yerdə saxlayın.',
+                answer: 'Məhsullar yağışa, suya və spirtə qarşı dözümlüdür. Təmasdan sonra yumşaq parça ilə qurulamaq kifayətdir.',
             },
             {
                 question: 'Su ilə təmasda qala bilərmi?',
-                answer: 'Paslanmayan polad suya davamlıdır, lakin gümüş və dəri məhsulları sudan uzaq tutulmalıdır. Duş qəbul edərkən, hovuza və ya dənizə girərkən çıxarın.',
+                answer: 'Bəli. 316L STAINLESS STEEL suya və yağışa davamlıdır, gündəlik istifadə üçün uyğundur.',
             },
             {
                 question: 'Saxlama tövsiyələri nədir?',

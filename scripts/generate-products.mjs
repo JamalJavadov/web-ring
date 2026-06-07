@@ -11,6 +11,7 @@ const MANIFEST_PATH = path.join(ROOT, 'scripts', '.products-manifest.json');
 const PRODUCT_IMAGE_COUNT = 3;
 const MAX_OUTPUT_IMAGE_SIDE = 900;
 const WEBP_QUALITY = 72;
+const PRODUCT_MATERIAL = 'Yüksək keyfiyyətli 316L STAINLESS STEEL';
 
 const execFileAsync = promisify(execFile);
 
@@ -580,7 +581,7 @@ function buildProducts(selectedFolders, productsByFolder) {
             priceAZN: folder.category.priceAZN,
             category: folder.category.label,
             tags: buildProductTags(folder.category, keywordKeys, hintText),
-            materials: ['Metal'],
+            materials: [PRODUCT_MATERIAL],
             descriptionShort: folder.category.descriptionShort,
             descriptionLong: folder.category.descriptionLong,
             images,

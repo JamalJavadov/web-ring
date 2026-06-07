@@ -46,7 +46,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -80,7 +80,7 @@ export const products: Product[] = [
             "rəqəm"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -114,7 +114,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -154,7 +154,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -189,7 +189,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -223,7 +223,7 @@ export const products: Product[] = [
             "pank"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -258,7 +258,7 @@ export const products: Product[] = [
             "pirat"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -292,7 +292,7 @@ export const products: Product[] = [
             "retro"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -328,7 +328,7 @@ export const products: Product[] = [
             "unisex"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -362,7 +362,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -404,7 +404,7 @@ export const products: Product[] = [
             "misir"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -438,7 +438,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -473,7 +473,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -508,7 +508,7 @@ export const products: Product[] = [
             "fırlanan"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -542,7 +542,7 @@ export const products: Product[] = [
             "qara"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -575,7 +575,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -609,7 +609,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -642,7 +642,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -677,7 +677,7 @@ export const products: Product[] = [
             "rəqəm"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -713,7 +713,7 @@ export const products: Product[] = [
             "unisex"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -746,7 +746,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -779,7 +779,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -814,7 +814,7 @@ export const products: Product[] = [
             "qara"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -848,7 +848,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -889,7 +889,7 @@ export const products: Product[] = [
             "ölüm mələyi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -924,7 +924,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -957,7 +957,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -998,7 +998,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1031,7 +1031,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1064,7 +1064,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1097,7 +1097,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1132,7 +1132,7 @@ export const products: Product[] = [
             "fırlanan"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1165,7 +1165,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1198,7 +1198,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1234,7 +1234,7 @@ export const products: Product[] = [
             "vintage"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1269,7 +1269,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1302,7 +1302,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1335,7 +1335,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1368,7 +1368,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1402,7 +1402,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1443,7 +1443,7 @@ export const products: Product[] = [
             "pirat"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1477,7 +1477,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1510,7 +1510,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1544,7 +1544,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1577,7 +1577,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1610,7 +1610,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1643,7 +1643,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1684,7 +1684,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1719,7 +1719,7 @@ export const products: Product[] = [
             "düyün"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1752,7 +1752,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1787,7 +1787,7 @@ export const products: Product[] = [
             "düyün"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1821,7 +1821,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1857,7 +1857,7 @@ export const products: Product[] = [
             "düyün"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1890,7 +1890,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1924,7 +1924,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1959,7 +1959,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -1994,7 +1994,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2027,7 +2027,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2067,7 +2067,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2100,7 +2100,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2136,7 +2136,7 @@ export const products: Product[] = [
             "unisex"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2168,7 +2168,7 @@ export const products: Product[] = [
             "qotik üzük"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2201,7 +2201,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2243,7 +2243,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2280,7 +2280,7 @@ export const products: Product[] = [
             "unisex"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2313,7 +2313,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2346,7 +2346,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2380,7 +2380,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2413,7 +2413,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2446,7 +2446,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2486,7 +2486,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2519,7 +2519,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2553,7 +2553,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2591,7 +2591,7 @@ export const products: Product[] = [
             "unisex"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2626,7 +2626,7 @@ export const products: Product[] = [
             "düyün"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2660,7 +2660,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2693,7 +2693,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2726,7 +2726,7 @@ export const products: Product[] = [
             "əjdaha"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2759,7 +2759,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2793,7 +2793,7 @@ export const products: Product[] = [
             "canavar"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2826,7 +2826,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2859,7 +2859,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2892,7 +2892,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2926,7 +2926,7 @@ export const products: Product[] = [
             "retro"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2959,7 +2959,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -2994,7 +2994,7 @@ export const products: Product[] = [
             "rok"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3027,7 +3027,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3067,7 +3067,7 @@ export const products: Product[] = [
             "daşlı"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3106,7 +3106,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3139,7 +3139,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3172,7 +3172,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3206,7 +3206,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3240,7 +3240,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3275,7 +3275,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3310,7 +3310,7 @@ export const products: Product[] = [
             "düyün"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3344,7 +3344,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3377,7 +3377,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3411,7 +3411,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3446,7 +3446,7 @@ export const products: Product[] = [
             "misir"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3481,7 +3481,7 @@ export const products: Product[] = [
             "rok"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3514,7 +3514,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3547,7 +3547,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3582,7 +3582,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3615,7 +3615,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3649,7 +3649,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3684,7 +3684,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3716,7 +3716,7 @@ export const products: Product[] = [
             "qotik üzük"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3752,7 +3752,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3786,7 +3786,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3819,7 +3819,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3854,7 +3854,7 @@ export const products: Product[] = [
             "düyün"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3888,7 +3888,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3923,7 +3923,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -3963,7 +3963,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4004,7 +4004,7 @@ export const products: Product[] = [
             "sadə"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4039,7 +4039,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4072,7 +4072,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4111,7 +4111,7 @@ export const products: Product[] = [
             "sadə"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4145,7 +4145,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4179,7 +4179,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4213,7 +4213,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4248,7 +4248,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4281,7 +4281,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4319,7 +4319,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4353,7 +4353,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4386,7 +4386,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4420,7 +4420,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4459,7 +4459,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4497,7 +4497,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4531,7 +4531,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4565,7 +4565,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4602,7 +4602,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4642,7 +4642,7 @@ export const products: Product[] = [
             "sadə"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4676,7 +4676,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4713,7 +4713,7 @@ export const products: Product[] = [
             "sadə"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4749,7 +4749,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4782,7 +4782,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4815,7 +4815,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4849,7 +4849,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4888,7 +4888,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4924,7 +4924,7 @@ export const products: Product[] = [
             "düyün"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4960,7 +4960,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -4994,7 +4994,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5027,7 +5027,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5060,7 +5060,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5094,7 +5094,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5128,7 +5128,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5161,7 +5161,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5196,7 +5196,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5231,7 +5231,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5270,7 +5270,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5305,7 +5305,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5341,7 +5341,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5374,7 +5374,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5412,7 +5412,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5448,7 +5448,7 @@ export const products: Product[] = [
             "sadə"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5481,7 +5481,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5516,7 +5516,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5551,7 +5551,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5585,7 +5585,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5619,7 +5619,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5653,7 +5653,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5693,7 +5693,7 @@ export const products: Product[] = [
             "ölüm mələyi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5726,7 +5726,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5761,7 +5761,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5796,7 +5796,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5829,7 +5829,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5863,7 +5863,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5896,7 +5896,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5930,7 +5930,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5963,7 +5963,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -5997,7 +5997,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6031,7 +6031,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6064,7 +6064,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6100,7 +6100,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6135,7 +6135,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6170,7 +6170,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6203,7 +6203,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6236,7 +6236,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6271,7 +6271,7 @@ export const products: Product[] = [
             "retro"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6310,7 +6310,7 @@ export const products: Product[] = [
             "fırlanan"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6344,7 +6344,7 @@ export const products: Product[] = [
             "retro"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış üzük.",
         "descriptionLong": "RingForBaku kolleksiyası üçün seçilmiş bu qotik üzük qara estetikanı metal parıltısı ilə birləşdirir. Gündəlik və gecə üslubunda fərqlənmək üçün premium seçimdir.",
@@ -6381,7 +6381,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6423,7 +6423,7 @@ export const products: Product[] = [
             "qanad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6459,7 +6459,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6496,7 +6496,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6537,7 +6537,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6573,7 +6573,7 @@ export const products: Product[] = [
             "bayker"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6609,7 +6609,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6650,7 +6650,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6686,7 +6686,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6721,7 +6721,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6757,7 +6757,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6793,7 +6793,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6829,7 +6829,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6865,7 +6865,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6901,7 +6901,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6937,7 +6937,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -6973,7 +6973,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7009,7 +7009,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7046,7 +7046,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7082,7 +7082,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7117,7 +7117,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7153,7 +7153,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7189,7 +7189,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7232,7 +7232,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7269,7 +7269,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7310,7 +7310,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7345,7 +7345,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7382,7 +7382,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7417,7 +7417,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7453,7 +7453,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7489,7 +7489,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7525,7 +7525,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7561,7 +7561,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7597,7 +7597,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7634,7 +7634,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7669,7 +7669,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7705,7 +7705,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7747,7 +7747,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7782,7 +7782,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7818,7 +7818,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7855,7 +7855,7 @@ export const products: Product[] = [
             "qanad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7890,7 +7890,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7927,7 +7927,7 @@ export const products: Product[] = [
             "qanad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7962,7 +7962,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -7998,7 +7998,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8034,7 +8034,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8070,7 +8070,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8106,7 +8106,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8147,7 +8147,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8189,7 +8189,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8224,7 +8224,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8263,7 +8263,7 @@ export const products: Product[] = [
             "hədiyyə"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8300,7 +8300,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8336,7 +8336,7 @@ export const products: Product[] = [
             "pank"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8372,7 +8372,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8408,7 +8408,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8444,7 +8444,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8481,7 +8481,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8519,7 +8519,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8557,7 +8557,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8593,7 +8593,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8628,7 +8628,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8668,7 +8668,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8704,7 +8704,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8740,7 +8740,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8775,7 +8775,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8810,7 +8810,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8847,7 +8847,7 @@ export const products: Product[] = [
             "daşlı"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8883,7 +8883,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8920,7 +8920,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8958,7 +8958,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -8995,7 +8995,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9031,7 +9031,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9067,7 +9067,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9102,7 +9102,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9138,7 +9138,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9174,7 +9174,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9216,7 +9216,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9253,7 +9253,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9289,7 +9289,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9325,7 +9325,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9362,7 +9362,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9397,7 +9397,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9433,7 +9433,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9471,7 +9471,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9512,7 +9512,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9548,7 +9548,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9584,7 +9584,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9620,7 +9620,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9656,7 +9656,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9692,7 +9692,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9736,7 +9736,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9771,7 +9771,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9811,7 +9811,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9848,7 +9848,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9885,7 +9885,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9921,7 +9921,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9958,7 +9958,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -9994,7 +9994,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10029,7 +10029,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10068,7 +10068,7 @@ export const products: Product[] = [
             "rok"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10104,7 +10104,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10142,7 +10142,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10178,7 +10178,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10214,7 +10214,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10251,7 +10251,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10286,7 +10286,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10323,7 +10323,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10359,7 +10359,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10397,7 +10397,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10433,7 +10433,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10469,7 +10469,7 @@ export const products: Product[] = [
             "retro"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10506,7 +10506,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10541,7 +10541,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10578,7 +10578,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10618,7 +10618,7 @@ export const products: Product[] = [
             "sadə"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10654,7 +10654,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10691,7 +10691,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10726,7 +10726,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10770,7 +10770,7 @@ export const products: Product[] = [
             "daşlı"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10807,7 +10807,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10843,7 +10843,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10878,7 +10878,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10914,7 +10914,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10951,7 +10951,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -10987,7 +10987,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11022,7 +11022,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11059,7 +11059,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11097,7 +11097,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11134,7 +11134,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11173,7 +11173,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11216,7 +11216,7 @@ export const products: Product[] = [
             "daşlı"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11258,7 +11258,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11298,7 +11298,7 @@ export const products: Product[] = [
             "hədiyyə"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11334,7 +11334,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11371,7 +11371,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11406,7 +11406,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11443,7 +11443,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11480,7 +11480,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11520,7 +11520,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11556,7 +11556,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11600,7 +11600,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11635,7 +11635,7 @@ export const products: Product[] = [
             "göz"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11671,7 +11671,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11706,7 +11706,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11742,7 +11742,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11783,7 +11783,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11826,7 +11826,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11862,7 +11862,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11899,7 +11899,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11935,7 +11935,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -11973,7 +11973,7 @@ export const products: Product[] = [
             "qanad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12009,7 +12009,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12044,7 +12044,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12081,7 +12081,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12117,7 +12117,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12154,7 +12154,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12189,7 +12189,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12226,7 +12226,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12262,7 +12262,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12299,7 +12299,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12337,7 +12337,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12372,7 +12372,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12408,7 +12408,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12450,7 +12450,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12487,7 +12487,7 @@ export const products: Product[] = [
             "misir"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12524,7 +12524,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12561,7 +12561,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12598,7 +12598,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12635,7 +12635,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12672,7 +12672,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12709,7 +12709,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12746,7 +12746,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12782,7 +12782,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12819,7 +12819,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12856,7 +12856,7 @@ export const products: Product[] = [
             "qızılı"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12900,7 +12900,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12937,7 +12937,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -12975,7 +12975,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -13012,7 +13012,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -13055,7 +13055,7 @@ export const products: Product[] = [
             "qadın"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -13091,7 +13091,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -13126,7 +13126,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -13162,7 +13162,7 @@ export const products: Product[] = [
             "kişi"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",
@@ -13197,7 +13197,7 @@ export const products: Product[] = [
             "paslanmaz polad"
         ],
         "materials": [
-            "Metal"
+            "Yüksək keyfiyyətli 316L STAINLESS STEEL"
         ],
         "descriptionShort": "Premium qotik üslubda hazırlanmış boyunbağı.",
         "descriptionLong": "RingForBaku kolleksiyasının bu qotik boyunbağısı qaranlıq estetikaya zərif metal toxunuşu qatır. Dayanıqlı materialı və balanslı dizaynı ilə gündəlik istifadə üçün idealdır.",

@@ -40,8 +40,8 @@ export function Drawer({ isOpen, onClose, title, children }: DrawerProps) {
 
             {/* Drawer Panel */}
             <div
-                className={`fixed top-0 right-0 h-full w-full sm:w-96 bg-surface border-l border-border z-50 transform transition-transform duration-350 ease-[cubic-bezier(0.32,0.72,0,1)] flex flex-col ${isOpen ? 'translate-x-0' : 'translate-x-full'
-                    }`}
+                className="fixed top-0 h-full w-full sm:w-96 bg-surface border-l border-border z-50 transition-[right] duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] flex flex-col"
+                style={{ right: isOpen ? 0 : '-100%' }}
                 role="dialog"
                 aria-modal="true"
                 aria-labelledby="drawer-title"

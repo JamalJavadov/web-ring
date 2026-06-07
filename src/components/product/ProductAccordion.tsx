@@ -10,6 +10,9 @@ interface ProductAccordionProps {
     product: Product;
 }
 
+const MATERIAL_DURABILITY =
+    'Yağışa, suya və spirtə qarşı dözümlüdür, uzun illər boyu istifadə oluna bilir.';
+
 function buildSections(product: Product): AccordionItem[] {
     return [
         {
@@ -18,7 +21,7 @@ function buildSections(product: Product): AccordionItem[] {
         },
         {
             title: 'Materiallar',
-            content: product.materials.join(', '),
+            content: `${product.materials.join(', ')}. ${MATERIAL_DURABILITY}`,
         },
         {
             title: 'Çatdırılma',
@@ -26,7 +29,7 @@ function buildSections(product: Product): AccordionItem[] {
         },
         {
             title: 'Qulluq',
-            content: 'Məhsulu rütubətdən və birbaşa günəş işığından qoruyun. Təmizləmək üçün yumşaq parçadan istifadə edin.',
+            content: 'Gündəlik istifadə üçün uyğundur. Su, yağış və spirtlə təmasdan sonra məhsulu yumşaq parça ilə qurulamaq kifayətdir.',
         },
     ];
 }

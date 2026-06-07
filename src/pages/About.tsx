@@ -61,7 +61,11 @@ export function About() {
                         <p>
                             Hər üzüyümüz, hər boyunbağımız əl ilə hazırlanır. Biz kütləvi istehsala
                             deyil, fərdi sənətkarlığa üstünlük veririk. Yalnız premium materiallardan
-                            istifadə edirik: paslanmayan polad, 925 gümüş və təbii daşlar.
+                            istifadə edirik: yüksək keyfiyyətli 316L STAINLESS STEEL.
+                        </p>
+                        <p>
+                            Bu material yağışa, suya və spirtə qarşı dözümlüdür, uzun illər boyu
+                            gündəlik istifadə üçün uyğundur.
                         </p>
                         <p>
                             Detallara diqqət bizim prinsipimizdir: hər oyma, hər cilalanma müştəriyə
